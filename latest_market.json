@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-26T17:03:06.793724+08:00",
+  "generated_at": "2026-07-26T18:20:49.674334+08:00",
   "beijing_date": "2026-07-26",
   "market_date": "2026-07-24",
   "market_state": "周末休市｜显示最近交易日",
-  "status": "有效80/80｜本轮更新80/80｜双源一致0/80",
+  "status": "有效80/80｜本轮更新80/80｜双源一致20/80",
   "source_policy": {
     "primary": "腾讯批量行情",
     "cross_check": "东方财富批量行情",
@@ -11,7 +11,6 @@
     "fallback": "东方财富可用值＋最后有效JSON"
   },
   "failures": [
-    "东方财富批次1失败：HTTP Error 502: Bad Gateway",
     "东方财富批次2失败：HTTP Error 502: Bad Gateway",
     "东方财富批次3失败：HTTP Error 502: Bad Gateway",
     "东方财富批次4失败：HTTP Error 502: Bad Gateway",
@@ -675,8 +674,12 @@
       "change_pct": -2.425129601312792,
       "time": "20260724161451",
       "quote_date": "2026-07-24",
-      "source": "腾讯行情",
-      "verification": "腾讯有效；备用源本轮不可用",
+      "source": "腾讯行情｜东方财富对账通过",
+      "verification": "双源一致",
+      "source_prices": {
+        "腾讯": 1046.51,
+        "东方财富": 1046.51
+      },
       "stale": false
     },
     {
@@ -691,10 +694,14 @@
       "price": 233.66,
       "prev_close": 225.5,
       "change_pct": 3.6186252771618577,
-      "time": "20260724161500",
+      "time": "20260724161430",
       "quote_date": "2026-07-24",
-      "source": "腾讯行情",
-      "verification": "腾讯有效；备用源本轮不可用",
+      "source": "腾讯行情｜东方财富对账通过",
+      "verification": "双源一致",
+      "source_prices": {
+        "腾讯": 233.66,
+        "东方财富": 233.66
+      },
       "stale": false
     },
     {
@@ -711,8 +718,12 @@
       "change_pct": 2.297297297297307,
       "time": "20260724161442",
       "quote_date": "2026-07-24",
-      "source": "腾讯行情",
-      "verification": "腾讯有效；备用源本轮不可用",
+      "source": "腾讯行情｜东方财富对账通过",
+      "verification": "双源一致",
+      "source_prices": {
+        "腾讯": 757.0,
+        "东方财富": 757.0
+      },
       "stale": false
     },
     {
@@ -729,8 +740,12 @@
       "change_pct": -1.8618618618618576,
       "time": "2026/07/24 16:08:13",
       "quote_date": "2026-07-24",
-      "source": "腾讯行情",
-      "verification": "腾讯有效；备用源本轮不可用",
+      "source": "腾讯行情｜东方财富对账通过",
+      "verification": "双源一致",
+      "source_prices": {
+        "腾讯": 163.4,
+        "东方财富": 163.4
+      },
       "stale": false
     },
     {
@@ -747,8 +762,12 @@
       "change_pct": -4.182569974554706,
       "time": "20260724161435",
       "quote_date": "2026-07-24",
-      "source": "腾讯行情",
-      "verification": "腾讯有效；备用源本轮不可用",
+      "source": "腾讯行情｜东方财富对账通过",
+      "verification": "双源一致",
+      "source_prices": {
+        "腾讯": 60.25,
+        "东方财富": 60.25
+      },
       "stale": false
     },
     {
@@ -765,8 +784,12 @@
       "change_pct": -4.27910717876534,
       "time": "20260724161403",
       "quote_date": "2026-07-24",
-      "source": "腾讯行情",
-      "verification": "腾讯有效；备用源本轮不可用",
+      "source": "腾讯行情｜东方财富对账通过",
+      "verification": "双源一致",
+      "source_prices": {
+        "腾讯": 476.02,
+        "东方财富": 476.02
+      },
       "stale": false
     },
     {
@@ -783,8 +806,12 @@
       "change_pct": -3.0412994643165714,
       "time": "20260724161439",
       "quote_date": "2026-07-24",
-      "source": "腾讯行情",
-      "verification": "腾讯有效；备用源本轮不可用",
+      "source": "腾讯行情｜东方财富对账通过",
+      "verification": "双源一致",
+      "source_prices": {
+        "腾讯": 112.22,
+        "东方财富": 112.22
+      },
       "stale": false
     },
     {
@@ -801,8 +828,12 @@
       "change_pct": -6.871279344041337,
       "time": "20260724161443",
       "quote_date": "2026-07-24",
-      "source": "腾讯行情",
-      "verification": "腾讯有效；备用源本轮不可用",
+      "source": "腾讯行情｜东方财富对账通过",
+      "verification": "双源一致",
+      "source_prices": {
+        "腾讯": 331.65,
+        "东方财富": 331.65
+      },
       "stale": false
     },
     {
@@ -819,8 +850,12 @@
       "change_pct": -5.107913669064745,
       "time": "20260724161434",
       "quote_date": "2026-07-24",
-      "source": "腾讯行情",
-      "verification": "腾讯有效；备用源本轮不可用",
+      "source": "腾讯行情｜东方财富对账通过",
+      "verification": "双源一致",
+      "source_prices": {
+        "腾讯": 118.71,
+        "东方财富": 118.71
+      },
       "stale": false
     },
     {
@@ -837,8 +872,12 @@
       "change_pct": -4.092602197180451,
       "time": "20260724161415",
       "quote_date": "2026-07-24",
-      "source": "腾讯行情",
-      "verification": "腾讯有效；备用源本轮不可用",
+      "source": "腾讯行情｜东方财富对账通过",
+      "verification": "双源一致",
+      "source_prices": {
+        "腾讯": 203.41,
+        "东方财富": 203.41
+      },
       "stale": false
     },
     {
@@ -855,8 +894,12 @@
       "change_pct": 0.7307692307692237,
       "time": "20260724161449",
       "quote_date": "2026-07-24",
-      "source": "腾讯行情",
-      "verification": "腾讯有效；备用源本轮不可用",
+      "source": "腾讯行情｜东方财富对账通过",
+      "verification": "双源一致",
+      "source_prices": {
+        "腾讯": 314.28,
+        "东方财富": 314.28
+      },
       "stale": false
     },
     {
@@ -873,8 +916,12 @@
       "change_pct": -1.9215372297838318,
       "time": "20260724161452",
       "quote_date": "2026-07-24",
-      "source": "腾讯行情",
-      "verification": "腾讯有效；备用源本轮不可用",
+      "source": "腾讯行情｜东方财富对账通过",
+      "verification": "双源一致",
+      "source_prices": {
+        "腾讯": 1225.0,
+        "东方财富": 1225.0
+      },
       "stale": false
     },
     {
@@ -891,8 +938,12 @@
       "change_pct": -1.3808634841615652,
       "time": "20260724161439",
       "quote_date": "2026-07-24",
-      "source": "腾讯行情",
-      "verification": "腾讯有效；备用源本轮不可用",
+      "source": "腾讯行情｜东方财富对账通过",
+      "verification": "双源一致",
+      "source_prices": {
+        "腾讯": 332.81,
+        "东方财富": 332.81
+      },
       "stale": false
     },
     {
@@ -909,8 +960,12 @@
       "change_pct": 3.5447761194029814,
       "time": "20260724161444",
       "quote_date": "2026-07-24",
-      "source": "腾讯行情",
-      "verification": "腾讯有效；备用源本轮不可用",
+      "source": "腾讯行情｜东方财富对账通过",
+      "verification": "双源一致",
+      "source_prices": {
+        "腾讯": 388.5,
+        "东方财富": 388.5
+      },
       "stale": false
     },
     {
@@ -927,8 +982,12 @@
       "change_pct": -3.0127330604820313,
       "time": "20260724161433",
       "quote_date": "2026-07-24",
-      "source": "腾讯行情",
-      "verification": "腾讯有效；备用源本轮不可用",
+      "source": "腾讯行情｜东方财富对账通过",
+      "verification": "双源一致",
+      "source_prices": {
+        "腾讯": 85.31,
+        "东方财富": 85.31
+      },
       "stale": false
     },
     {
@@ -945,8 +1004,12 @@
       "change_pct": -2.355712603062421,
       "time": "20260724161439",
       "quote_date": "2026-07-24",
-      "source": "腾讯行情",
-      "verification": "腾讯有效；备用源本轮不可用",
+      "source": "腾讯行情｜东方财富对账通过",
+      "verification": "双源一致",
+      "source_prices": {
+        "腾讯": 41.45,
+        "东方财富": 41.45
+      },
       "stale": false
     },
     {
@@ -963,8 +1026,12 @@
       "change_pct": -1.730066623683646,
       "time": "20260724161421",
       "quote_date": "2026-07-24",
-      "source": "腾讯行情",
-      "verification": "腾讯有效；备用源本轮不可用",
+      "source": "腾讯行情｜东方财富对账通过",
+      "verification": "双源一致",
+      "source_prices": {
+        "腾讯": 91.45,
+        "东方财富": 91.45
+      },
       "stale": false
     },
     {
@@ -981,8 +1048,12 @@
       "change_pct": -0.327131465957875,
       "time": "20260724161450",
       "quote_date": "2026-07-24",
-      "source": "腾讯行情",
-      "verification": "腾讯有效；备用源本轮不可用",
+      "source": "腾讯行情｜东方财富对账通过",
+      "verification": "双源一致",
+      "source_prices": {
+        "腾讯": 97.5,
+        "东方财富": 97.5
+      },
       "stale": false
     },
     {
@@ -999,8 +1070,12 @@
       "change_pct": -3.806228373702425,
       "time": "20260724161459",
       "quote_date": "2026-07-24",
-      "source": "腾讯行情",
-      "verification": "腾讯有效；备用源本轮不可用",
+      "source": "腾讯行情｜东方财富对账通过",
+      "verification": "双源一致",
+      "source_prices": {
+        "腾讯": 1390.0,
+        "东方财富": 1390.0
+      },
       "stale": false
     },
     {
@@ -1017,8 +1092,12 @@
       "change_pct": 1.1151429330029217,
       "time": "20260724161431",
       "quote_date": "2026-07-24",
-      "source": "腾讯行情",
-      "verification": "腾讯有效；备用源本轮不可用",
+      "source": "腾讯行情｜东方财富对账通过",
+      "verification": "双源一致",
+      "source_prices": {
+        "腾讯": 457.0,
+        "东方财富": 457.0
+      },
       "stale": false
     },
     {
@@ -2127,7 +2206,7 @@
       "price": 1787.2,
       "prev_close": 1789.69,
       "change_pct": -0.1391302404327055,
-      "time": "20260724161413",
+      "time": "20260724161414",
       "quote_date": "2026-07-24",
       "source": "腾讯行情",
       "verification": "腾讯有效；备用源本轮不可用",
