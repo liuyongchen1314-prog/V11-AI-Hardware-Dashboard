@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-07-28T00:39:56.050307+08:00",
-  "status": "完成80/80",
-  "failures": [],
+  "generated_at": "2026-07-29T00:16:14.226793+08:00",
+  "status": "完成79/80",
+  "failures": [
+    "000021.SZ：TimeoutError"
+  ],
   "companies": [
     {
       "rank": 1,
@@ -13,6 +15,27 @@
       "quote_symbol": "sz300308",
       "chain": "AI网络 / 光互连 / CPO",
       "announcements": [
+        {
+          "title": "中际旭创:关于收到董事长提议回购公司股份的公告",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827429093",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": true
+        },
+        {
+          "title": "中际旭创:投资者关系活动记录表20260728",
+          "notice_date": "2026-07-28 00:00:00",
+          "art_code": "AN202607281827430032",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
+          "title": "中际旭创:关于境外上市股份(H股)公开发行价格的公告",
+          "notice_date": "2026-07-28 00:00:00",
+          "art_code": "AN202607281827401691",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
         {
           "title": "中际旭创:关于刊发H股招股说明书、H股发行价格上限及H股香港公开发售等事宜的公告",
           "notice_date": "2026-07-22 00:00:00",
@@ -61,31 +84,10 @@
           "art_code": "AN202606121823516340",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
-        },
-        {
-          "title": "中际旭创:关于董事会完成换届选举暨聘任高级管理人员和证券事务代表的公告",
-          "notice_date": "2026-06-12 00:00:00",
-          "art_code": "AN202606121823516354",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "中际旭创:北京中银(苏州)律师事务所关于公司2026年第二次临时股东会之法律意见书",
-          "notice_date": "2026-06-12 00:00:00",
-          "art_code": "AN202606121823516359",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "中际旭创:2026年第二次临时股东会决议公告",
-          "notice_date": "2026-06-12 00:00:00",
-          "art_code": "AN202606121823516355",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
         }
       ],
       "tushare_income": null,
-      "revaluation_trigger": false,
+      "revaluation_trigger": true,
       "source": "东方财富公告索引"
     },
     {
@@ -878,72 +880,72 @@
       "chain": "AI芯片 / ASIC / 端侧算力",
       "announcements": [
         {
-          "title": "寒武纪:第三届董事会第六次会议决议公告",
-          "notice_date": "2026-07-25 00:00:00",
-          "art_code": "AN202607241827325012",
+          "title": "寒武纪:北京市中伦律师事务所关于中科寒武纪科技股份有限公司2026年限制性股票激励计划的法律意见书",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827428770",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         },
         {
-          "title": "寒武纪:关于调整募投项目内部投资结构的公告",
-          "notice_date": "2026-07-25 00:00:00",
-          "art_code": "AN202607241827325011",
+          "title": "寒武纪:公司章程",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827428764",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         },
         {
-          "title": "寒武纪:中信证券股份有限公司关于中科寒武纪科技股份有限公司调整募投项目内部投资结构的核查意见",
-          "notice_date": "2026-07-25 00:00:00",
-          "art_code": "AN202607241827325010",
+          "title": "寒武纪:2026年限制性股票激励计划(草案)摘要公告",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827428768",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         },
         {
-          "title": "寒武纪:关于作废部分限制性股票的公告",
-          "notice_date": "2026-07-25 00:00:00",
-          "art_code": "AN202607241827325008",
+          "title": "寒武纪:关于召开2026年第一次临时股东会的通知",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827428766",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         },
         {
-          "title": "寒武纪:董事会薪酬与考核委员会关于2023年限制性股票激励计划预留授予部分第一个归属期归属名单的核查意见",
-          "notice_date": "2026-07-25 00:00:00",
-          "art_code": "AN202607241827325009",
+          "title": "寒武纪:2026年限制性股票激励计划实施考核管理办法",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827428767",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         },
         {
-          "title": "寒武纪:关于2023年限制性股票激励计划预留授予部分第一个归属期符合归属条件的公告",
-          "notice_date": "2026-07-25 00:00:00",
-          "art_code": "AN202607241827325006",
+          "title": "寒武纪:第三届董事会第七次会议决议公告",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827428769",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         },
         {
-          "title": "寒武纪:北京市中伦律师事务所关于中科寒武纪科技股份有限公司2023年限制性股票激励计划授予价格及授予数量调整、预留授予部分第一个归属期归属条件成就暨部分限制性股票作废事项的法律意见书",
-          "notice_date": "2026-07-25 00:00:00",
-          "art_code": "AN202607241827325004",
+          "title": "寒武纪:2026年限制性股票激励计划激励对象名单",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827428763",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         },
         {
-          "title": "寒武纪:关于调整2023年限制性股票激励计划授予价格及授予数量的公告",
-          "notice_date": "2026-07-25 00:00:00",
-          "art_code": "AN202607241827325005",
+          "title": "寒武纪:2026年限制性股票激励计划(草案)",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827428762",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         },
         {
-          "title": "寒武纪:股票交易风险提示公告",
-          "notice_date": "2026-07-01 00:00:00",
-          "art_code": "AN202606301826606414",
+          "title": "寒武纪:董事会薪酬与考核委员会关于公司2026年限制性股票激励计划(草案)的核查意见",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827428765",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         },
         {
-          "title": "寒武纪:关于注销部分募集资金理财产品专用结算账户的公告",
-          "notice_date": "2026-06-12 00:00:00",
-          "art_code": "AN202606111823457528",
+          "title": "寒武纪:关于变更注册资本及修订《公司章程》并办理工商变更登记的公告",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827428761",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         }
@@ -1728,6 +1730,13 @@
       "chain": "AI网络 / 光互连 / CPO",
       "announcements": [
         {
+          "title": "光迅科技:武汉光迅科技股份有限公司关于2022年限制性股票激励计划首次授予的限制性股票第二个解除限售期解除限售股份上市流通的提示性公告",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827419232",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
           "title": "光迅科技:武汉光迅科技股份有限公司薪酬与考核委员会2026年第二次会议意见",
           "notice_date": "2026-07-23 00:00:00",
           "art_code": "AN202607221827257257",
@@ -1787,13 +1796,6 @@
           "title": "光迅科技:武汉光迅科技股份有限公司向特定对象发行股票并在主板上市之上市公告书",
           "notice_date": "2026-06-11 00:00:00",
           "art_code": "AN202606101823431185",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "光迅科技:武汉光迅科技股份有限公司关于向特定对象发行A股股票上市公告书披露的提示性公告",
-          "notice_date": "2026-06-11 00:00:00",
-          "art_code": "AN202606101823431188",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         }
@@ -1898,6 +1900,55 @@
       "chain": "高速铜缆 / 连接器",
       "announcements": [
         {
+          "title": "立讯精密:第六届董事会第二十七次会议决议公告",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827423758",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
+          "title": "立讯精密:北京市汉坤(深圳)律师事务所关于立讯精密工业股份有限公司2021年股票期权激励计划调整行权价格的法律意见",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827423760",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
+          "title": "立讯精密:北京市汉坤(深圳)律师事务所关于立讯精密工业股份有限公司2022年股票期权激励计划调整行权价格的法律意见",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827423762",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
+          "title": "立讯精密:关于调整2021年、2022年、2025年股票期权激励计划行权价格的公告",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827423765",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
+          "title": "立讯精密:第六届董事会薪酬与考核委员会2026年第五次会议决议",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827423700",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
+          "title": "立讯精密:关于统一采用中国企业会计准则编制财务报告的公告",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827423701",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
+          "title": "立讯精密:北京市汉坤(深圳)律师事务所关于立讯精密工业股份有限公司2025年股票期权激励计划调整行权价格的法律意见",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827423667",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
           "title": "立讯精密:关于股份回购进展情况的公告",
           "notice_date": "2026-07-23 00:00:00",
           "art_code": "AN202607221827260973",
@@ -1917,55 +1968,6 @@
           "art_code": "AN202607161827028011",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
-        },
-        {
-          "title": "立讯精密:2025年年度权益分派实施公告",
-          "notice_date": "2026-07-11 00:00:00",
-          "art_code": "AN202607101826879897",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": true
-        },
-        {
-          "title": "立讯精密:关于“立讯转债“转股价格调整的公告",
-          "notice_date": "2026-07-11 00:00:00",
-          "art_code": "AN202607101826879894",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "立讯精密:关于境外上市外资股(H股)挂牌并上市交易的公告",
-          "notice_date": "2026-07-10 00:00:00",
-          "art_code": "AN202607091826851107",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "立讯精密:关于控股股东及其一致行动人持股比例被动稀释触及1%的公告",
-          "notice_date": "2026-07-10 00:00:00",
-          "art_code": "AN202607091826851108",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "立讯精密:关于“立讯转债“转股价格调整的公告",
-          "notice_date": "2026-07-10 00:00:00",
-          "art_code": "AN202607091826851106",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "立讯精密:关于境外上市外资股(H股)公开发行价格的公告",
-          "notice_date": "2026-07-08 00:00:00",
-          "art_code": "AN202607071826776441",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "立讯精密:关于实施权益分派期间“立讯转债“暂停转股的公告",
-          "notice_date": "2026-07-07 00:00:00",
-          "art_code": "AN202607061826753582",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": true
         }
       ],
       "tushare_income": null,
@@ -2068,6 +2070,13 @@
       "chain": "AI服务器PCB / 覆铜板",
       "announcements": [
         {
+          "title": "胜宏科技:关于对子公司担保解除及子公司之间提供担保的进展公告",
+          "notice_date": "2026-07-28 00:00:00",
+          "art_code": "AN202607281827423527",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
           "title": "胜宏科技:2026年第一期A股员工持股计划管理办法",
           "notice_date": "2026-07-20 00:00:00",
           "art_code": "AN202607201827158330",
@@ -2127,13 +2136,6 @@
           "title": "胜宏科技:2026年A股限制性股票激励计划(草案)",
           "notice_date": "2026-07-20 00:00:00",
           "art_code": "AN202607201827158337",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "胜宏科技:关于市场传闻的澄清公告",
-          "notice_date": "2026-07-13 00:00:00",
-          "art_code": "AN202607131826934317",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         }
@@ -2337,6 +2339,20 @@
       "chain": "HBM / 存储 / 内存接口",
       "announcements": [
         {
+          "title": "雅克科技:关于三级子公司向其参股公司提供财务资助的公告",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827421610",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
+          "title": "雅克科技:第七届董事会第三次会议决议公告",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827421474",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
           "title": "雅克科技:关于公司股票交易异常波动的公告",
           "notice_date": "2026-07-02 00:00:00",
           "art_code": "AN202607011826635508",
@@ -2389,20 +2405,6 @@
           "title": "雅克科技:2025年年度股东会决议公告",
           "notice_date": "2026-05-19 00:00:00",
           "art_code": "AN202605181822405545",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "雅克科技:关于董事会完成换届选举暨聘任高级管理人员、内部审计部门负责人、证券事务代表的公告",
-          "notice_date": "2026-05-19 00:00:00",
-          "art_code": "AN202605181822405538",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "雅克科技:2025年年度股东会法律意见书",
-          "notice_date": "2026-05-19 00:00:00",
-          "art_code": "AN202605181822405529",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         }
@@ -2932,6 +2934,13 @@
       "chain": "AI服务器PCB / 覆铜板",
       "announcements": [
         {
+          "title": "广合科技:H股公告-董事会会议召开日期",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827423533",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
           "title": "广合科技:2026年7月13日投资者关系活动记录表",
           "notice_date": "2026-07-13 00:00:00",
           "art_code": "AN202607131826929172",
@@ -2991,13 +3000,6 @@
           "title": "广合科技:关于向不特定对象发行A股可转换公司债券预案披露的提示性公告",
           "notice_date": "2026-06-23 00:00:00",
           "art_code": "AN202606221823742469",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "广合科技:关于增加外汇套期保值业务额度的可行性分析报告",
-          "notice_date": "2026-06-23 00:00:00",
-          "art_code": "AN202606221823742466",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         }
@@ -3272,6 +3274,13 @@
       "chain": "先进制程 / 设备 / 材料 / 封装",
       "announcements": [
         {
+          "title": "华海清科:关于2023年限制性股票激励计划首次授予部分第二个归属期归属结果暨股份上市的公告",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827423972",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
           "title": "华海清科:2026年限制性股票激励计划(草案修订稿)摘要公告",
           "notice_date": "2026-07-11 00:00:00",
           "art_code": "AN202607101826879613",
@@ -3331,13 +3340,6 @@
           "title": "华海清科:北京海润天睿律师事务所关于华海清科股份有限公司2023年限制性股票激励计划授予调整、首次授予部分第二个归属期归属条件成就及作废部分已授予未归属限制性股票事项的法律意见书",
           "notice_date": "2026-07-07 00:00:00",
           "art_code": "AN202607061826747672",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "华海清科:关于作废2023年限制性股票激励计划部分已授予尚未归属限制性股票的公告",
-          "notice_date": "2026-07-07 00:00:00",
-          "art_code": "AN202607061826747676",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         }
@@ -4221,6 +4223,20 @@
       "chain": "先进制程 / 设备 / 材料 / 封装",
       "announcements": [
         {
+          "title": "鼎龙股份:关于更换持续督导保荐代表人的公告",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827425861",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
+          "title": "鼎龙股份:300054鼎龙股份投资者关系管理信息20260728",
+          "notice_date": "2026-07-28 00:00:00",
+          "art_code": "AN202607281827425978",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
           "title": "300054鼎龙股份投资者关系管理信息20260723",
           "notice_date": "2026-07-23 00:00:00",
           "art_code": "AN202607231827295127",
@@ -4273,20 +4289,6 @@
           "title": "鼎龙股份:300054鼎龙股份投资者关系管理信息20260625",
           "notice_date": "2026-06-25 00:00:00",
           "art_code": "AN202606251823861000",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "鼎龙股份:第六届董事会第十四次会议决议公告",
-          "notice_date": "2026-06-19 00:00:00",
-          "art_code": "AN202606181823666293",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "鼎龙股份:关于调整2024年股票期权激励计划行权价格的公告",
-          "notice_date": "2026-06-19 00:00:00",
-          "art_code": "AN202606181823666292",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         }
@@ -5850,6 +5852,13 @@
       "chain": "AI服务器 / 算力基础设施",
       "announcements": [
         {
+          "title": "欧陆通:关于对外担保进展的公告",
+          "notice_date": "2026-07-28 00:00:00",
+          "art_code": "AN202607281827418594",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
           "title": "欧陆通:2026年6月29日-7月3日投资者关系活动记录表",
           "notice_date": "2026-07-03 00:00:00",
           "art_code": "AN202607031826706837",
@@ -5909,13 +5918,6 @@
           "title": "欧陆通:国金证券股份有限公司关于深圳欧陆通电子股份有限公司收购控股子公司少数股权暨关联交易的核查意见",
           "notice_date": "2026-06-23 00:00:00",
           "art_code": "AN202606231823772557",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "欧陆通:股票及可转债交易异常波动公告",
-          "notice_date": "2026-06-16 00:00:00",
-          "art_code": "AN202606161823606230",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         }
@@ -6020,6 +6022,20 @@
       "chain": "先进制程 / 设备 / 材料 / 封装",
       "announcements": [
         {
+          "title": "沪硅产业:立信会计师事务所(特殊普通合伙)关于上海硅产业集团股份有限公司2025年年度报告的信息披露监管问询函的回复",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827424336",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": true
+        },
+        {
+          "title": "沪硅产业:沪硅产业关于2025年年度报告的信息披露监管问询函的回复公告",
+          "notice_date": "2026-07-29 00:00:00",
+          "art_code": "AN202607281827424335",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": true
+        },
+        {
           "title": "沪硅产业:沪硅产业股东减持股份计划公告",
           "notice_date": "2026-07-08 00:00:00",
           "art_code": "AN202607071826776143",
@@ -6074,24 +6090,10 @@
           "art_code": "AN202606181823673683",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
-        },
-        {
-          "title": "沪硅产业:沪硅产业关于发行股份及支付现金购买资产并募集配套资金暨关联交易之部分限售股上市流通的公告",
-          "notice_date": "2026-06-17 00:00:00",
-          "art_code": "AN202606161823608706",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "沪硅产业:中国国际金融股份有限公司关于上海硅产业集团股份有限公司发行股份及支付现金购买资产并募集配套资金暨关联交易之部分限售股上市流通的核查意见",
-          "notice_date": "2026-06-17 00:00:00",
-          "art_code": "AN202606161823608707",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
         }
       ],
       "tushare_income": null,
-      "revaluation_trigger": false,
+      "revaluation_trigger": true,
       "source": "东方财富公告索引"
     },
     {
