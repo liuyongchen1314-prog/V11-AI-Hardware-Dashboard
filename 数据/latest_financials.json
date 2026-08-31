@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T04:20:17.267169+08:00",
+  "generated_at": "2026-09-01T00:20:23.869274+08:00",
   "status": "完成80/80",
   "failures": [],
   "companies": [
@@ -13,6 +13,27 @@
       "quote_symbol": "sz300308",
       "chain": "AI网络 / 光互连 / CPO",
       "announcements": [
+        {
+          "title": "中际旭创:第六届董事会第四次会议决议公告",
+          "notice_date": "2026-09-01 00:00:00",
+          "art_code": "AN202608311828826955",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
+          "title": "中际旭创:关于回购公司股份方案的公告",
+          "notice_date": "2026-09-01 00:00:00",
+          "art_code": "AN202608311828826958",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": true
+        },
+        {
+          "title": "中际旭创:Ｈ股公告(翌日披露报表)",
+          "notice_date": "2026-09-01 00:00:00",
+          "art_code": "AN202608311828826959",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
         {
           "title": "中际旭创:关于境外上市股份(H股)调入港股通标的证券名单的公告",
           "notice_date": "2026-08-27 00:00:00",
@@ -61,27 +82,6 @@
           "art_code": "AN202608211828276725",
           "source": "东方财富公告索引",
           "revaluation_trigger": true
-        },
-        {
-          "title": "中际旭创:关于2026年半年度利润分配方案的公告",
-          "notice_date": "2026-08-22 00:00:00",
-          "art_code": "AN202608211828276704",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "中际旭创:2026年半年度报告摘要",
-          "notice_date": "2026-08-22 00:00:00",
-          "art_code": "AN202608211828276726",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": true
-        },
-        {
-          "title": "中际旭创:2026年半年度非经营性资金占用及其他关联资金往来情况汇总表",
-          "notice_date": "2026-08-22 00:00:00",
-          "art_code": "AN202608211828276708",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
         }
       ],
       "tushare_income": null,
@@ -98,6 +98,13 @@
       "quote_symbol": "sh688008",
       "chain": "HBM / 存储 / 内存接口",
       "announcements": [
+        {
+          "title": "澜起科技:H股公告-根据2026年H股激励计划授予股份奖励",
+          "notice_date": "2026-09-01 00:00:00",
+          "art_code": "AN202608311828822632",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
         {
           "title": "澜起科技:澜起科技关于2026年度“提质增效重回报”专项行动方案的半年度评估报告",
           "notice_date": "2026-08-29 00:00:00",
@@ -160,13 +167,6 @@
           "art_code": "AN202607301827494765",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
-        },
-        {
-          "title": "澜起科技:澜起科技关于以集中竞价交易方式首次回购A股股份的公告",
-          "notice_date": "2026-07-30 00:00:00",
-          "art_code": "AN202607291827460299",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": true
         }
       ],
       "tushare_income": null,
@@ -368,6 +368,13 @@
       "chain": "AI网络 / 光互连 / CPO",
       "announcements": [
         {
+          "title": "新易盛:董事会薪酬与考核委员会关于2026年限制性股票激励计划首次授予激励对象名单的核查意见及公示情况说明",
+          "notice_date": "2026-09-01 00:00:00",
+          "art_code": "AN202608311828817808",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
           "title": "新易盛:关于2026年半年度报告披露的提示性公告",
           "notice_date": "2026-08-25 00:00:00",
           "art_code": "AN202608241828372194",
@@ -429,13 +436,6 @@
           "art_code": "AN202608240006746577",
           "source": "东方财富公告索引",
           "revaluation_trigger": true
-        },
-        {
-          "title": "新易盛:2026年限制性股票激励计划(草案)",
-          "notice_date": "2026-08-21 00:00:00",
-          "art_code": "AN202608201828213447",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
         }
       ],
       "tushare_income": null,
@@ -708,6 +708,27 @@
       "chain": "AI网络 / 光互连 / CPO",
       "announcements": [
         {
+          "title": "天孚通信:关于2026年限制性股票激励计划内幕信息知情人及激励对象买卖公司股票情况的自查报告",
+          "notice_date": "2026-09-01 00:00:00",
+          "art_code": "AN202608311828819702",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
+          "title": "天孚通信:2026年第二次临时股东会决议公告",
+          "notice_date": "2026-08-31 00:00:00",
+          "art_code": "AN202608311828824593",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
+          "title": "天孚通信:江苏世纪同仁律师事务所关于公司2026年第二次临时股东会的法律意见书",
+          "notice_date": "2026-08-31 00:00:00",
+          "art_code": "AN202608311828824592",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
           "title": "天孚通信:董事会薪酬与考核委员会关于2026年限制性股票激励计划激励对象名单的核查意见及公示情况说明",
           "notice_date": "2026-08-26 00:00:00",
           "art_code": "AN202608251828420778",
@@ -753,27 +774,6 @@
           "title": "天孚通信:关于2026年半年度利润分配方案的公告",
           "notice_date": "2026-08-19 00:00:00",
           "art_code": "AN202608181828114273",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "天孚通信:第五届董事会第十二次会议决议公告",
-          "notice_date": "2026-08-19 00:00:00",
-          "art_code": "AN202608181828114240",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "天孚通信:2026年半年度报告",
-          "notice_date": "2026-08-19 00:00:00",
-          "art_code": "AN202608181828114238",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": true
-        },
-        {
-          "title": "天孚通信:关于变更公司注册资本及修订《公司章程》部分条款的公告",
-          "notice_date": "2026-08-13 00:00:00",
-          "art_code": "AN202608121827910914",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         }
@@ -1218,6 +1218,13 @@
       "chain": "HBM / 存储 / 内存接口",
       "announcements": [
         {
+          "title": "紫光股份:2026年8月28日投资者关系活动记录表",
+          "notice_date": "2026-08-31 00:00:00",
+          "art_code": "AN202608311828829887",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
           "title": "紫光股份:关于公司总裁离任暨聘任总裁的公告",
           "notice_date": "2026-08-29 00:00:00",
           "art_code": "AN202608281828644918",
@@ -1277,13 +1284,6 @@
           "title": "紫光股份:中信建投证券股份有限公司关于紫光股份有限公司向特定对象发行A股股票之发行保荐书",
           "notice_date": "2026-08-28 00:00:00",
           "art_code": "AN202608271828551364",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "紫光股份:紫光股份有限公司向特定对象发行A股股票募集说明书(申报稿)",
-          "notice_date": "2026-08-28 00:00:00",
-          "art_code": "AN202608271828551278",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         }
@@ -1473,6 +1473,13 @@
       "chain": "AI网络 / 光互连 / CPO",
       "announcements": [
         {
+          "title": "源杰科技:投资者关系活动记录表(2026年8月30日)",
+          "notice_date": "2026-08-31 00:00:00",
+          "art_code": "AN202608311828813316",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
           "title": "源杰科技:陕西源杰半导体科技股份有限公司2026年半年度报告摘要",
           "notice_date": "2026-08-29 00:00:00",
           "art_code": "AN202608281828631614",
@@ -1532,13 +1539,6 @@
           "title": "源杰科技:陕西源杰半导体科技股份有限公司董事会薪酬与考核委员会关于2025年限制性股票激励计划预留授予激励对象名单的核查意见及公示情况说明",
           "notice_date": "2026-08-22 00:00:00",
           "art_code": "AN202608211828276270",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "源杰科技:陕西源杰半导体科技股份有限公司2026年第三次临时股东会会议资料",
-          "notice_date": "2026-08-20 00:00:00",
-          "art_code": "AN202608191828160848",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         }
@@ -2252,6 +2252,13 @@
       "chain": "AI芯片 / ASIC / 端侧算力",
       "announcements": [
         {
+          "title": "芯原股份:2026年8月28日投资者关系活动记录表",
+          "notice_date": "2026-08-31 00:00:00",
+          "art_code": "AN202608311828803910",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
           "title": "芯原股份:关于召开2026年第三次临时股东会的通知(更新后)",
           "notice_date": "2026-08-27 00:00:00",
           "art_code": "AN202608261828482355",
@@ -2311,13 +2318,6 @@
           "title": "芯原股份:上海市方达(北京)律师事务所关于芯原微电子(上海)股份有限公司2026年限制性股票激励计划(草案修订稿)的法律意见书",
           "notice_date": "2026-08-26 00:00:00",
           "art_code": "AN202608251828408120",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "芯原股份:关于取消并重新召开2026年第三次临时股东会的公告",
-          "notice_date": "2026-08-26 00:00:00",
-          "art_code": "AN202608251828408116",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         }
@@ -2507,6 +2507,41 @@
       "chain": "液冷 / 电源 / AI电力系统",
       "announcements": [
         {
+          "title": "思源电气:第九届董事会第四次会议决议公告",
+          "notice_date": "2026-09-01 00:00:00",
+          "art_code": "AN202608311828825634",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
+          "title": "思源电气:关于公司使用自有资金投资建设生产及办公综合大楼的公告",
+          "notice_date": "2026-09-01 00:00:00",
+          "art_code": "AN202608311828825637",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
+          "title": "思源电气:独立董事关于公司第九届董事会第四次会议相关事项的独立意见",
+          "notice_date": "2026-09-01 00:00:00",
+          "art_code": "AN202608311828825636",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
+          "title": "思源电气:关于向全资子公司思源清能电气电子有限公司划转股权的公告",
+          "notice_date": "2026-09-01 00:00:00",
+          "art_code": "AN202608311828825226",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
+          "title": "思源电气:2026年8月31日投资者关系活动记录表",
+          "notice_date": "2026-08-31 00:00:00",
+          "art_code": "AN202608311828834639",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
           "title": "思源电气:关于2023年股票期权激励计划第三个行权期采用自主行权模式的提示性公告",
           "notice_date": "2026-08-27 00:00:00",
           "art_code": "AN202608261828485422",
@@ -2538,41 +2573,6 @@
           "title": "思源电气:第九届董事会第三次会议决议公告",
           "notice_date": "2026-08-15 00:00:00",
           "art_code": "AN202608141827987435",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "思源电气:关于2023年股票期权激励计划部分股票期权注销完成的公告",
-          "notice_date": "2026-08-14 00:00:00",
-          "art_code": "AN202608131827940354",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "思源电气:关于对全资子公司江苏思源新能源科技有限公司增资的公告",
-          "notice_date": "2026-08-05 00:00:00",
-          "art_code": "AN202608041827629604",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "思源电气:关于调整2023年股票期权激励计划激励对象、期权数量、行权价格及注销部分期权的公告",
-          "notice_date": "2026-08-05 00:00:00",
-          "art_code": "AN202608041827629610",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "思源电气:关于公司2023年股票期权激励计划第三个行权期行权条件成就的公告",
-          "notice_date": "2026-08-05 00:00:00",
-          "art_code": "AN202608041827629617",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "思源电气:独立董事关于公司第九届董事会第二次会议相关事项的独立意见",
-          "notice_date": "2026-08-05 00:00:00",
-          "art_code": "AN202608041827629606",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         }
@@ -3187,78 +3187,78 @@
       "chain": "先进制程 / 设备 / 材料 / 封装",
       "announcements": [
         {
-          "title": "拓荆科技:关于全资子公司参与投资私募基金暨关联交易的公告",
-          "notice_date": "2026-08-21 00:00:00",
-          "art_code": "AN202608201828211662",
+          "title": "拓荆科技:2026年限制性股票激励计划首次授予激励对象名单",
+          "notice_date": "2026-09-01 00:00:00",
+          "art_code": "AN202608311828826189",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         },
         {
-          "title": "拓荆科技:2026年半年度募集资金存放、管理与实际使用情况的专项报告",
-          "notice_date": "2026-08-21 00:00:00",
-          "art_code": "AN202608201828211659",
+          "title": "拓荆科技:北京市中伦律师事务所关于拓荆科技股份有限公司2026年限制性股票激励计划(草案)的法律意见书",
+          "notice_date": "2026-09-01 00:00:00",
+          "art_code": "AN202608311828826186",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         },
         {
-          "title": "拓荆科技:2026年半年度报告摘要",
-          "notice_date": "2026-08-21 00:00:00",
-          "art_code": "AN202608201828211654",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": true
-        },
-        {
-          "title": "拓荆科技:2026年半年度报告",
-          "notice_date": "2026-08-21 00:00:00",
-          "art_code": "AN202608201828211656",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": true
-        },
-        {
-          "title": "拓荆科技:中信建投证券股份有限公司关于拓荆科技股份有限公司全资子公司参与投资私募基金暨关联交易的核查意见",
-          "notice_date": "2026-08-21 00:00:00",
-          "art_code": "AN202608201828211653",
+          "title": "拓荆科技:第二届董事会第三十次会议决议公告",
+          "notice_date": "2026-09-01 00:00:00",
+          "art_code": "AN202608311828826188",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         },
         {
-          "title": "拓荆科技:关于召开2026年第二次临时股东会的通知",
-          "notice_date": "2026-08-21 00:00:00",
-          "art_code": "AN202608201828211655",
+          "title": "拓荆科技:关于召开2026年第三次临时股东会的通知",
+          "notice_date": "2026-09-01 00:00:00",
+          "art_code": "AN202608311828826190",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         },
         {
-          "title": "拓荆科技:关于2026年度“提质增效重回报”行动方案的半年度评估报告",
-          "notice_date": "2026-08-21 00:00:00",
-          "art_code": "AN202608201828211658",
+          "title": "拓荆科技:2026年限制性股票激励计划(草案)",
+          "notice_date": "2026-09-01 00:00:00",
+          "art_code": "AN202608311828826192",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         },
         {
-          "title": "拓荆科技:关于2026年半年度利润分配方案的公告",
-          "notice_date": "2026-08-21 00:00:00",
-          "art_code": "AN202608201828211657",
+          "title": "拓荆科技:关于2023年限制性股票激励计划首次授予部分第二个归属期及预留授予部分第一个归属期归属结果暨股份上市公告",
+          "notice_date": "2026-09-01 00:00:00",
+          "art_code": "AN202608311828826191",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         },
         {
-          "title": "拓荆科技:关于发行股份及支付现金购买资产并募集配套资金事项的进展公告",
-          "notice_date": "2026-08-11 00:00:00",
-          "art_code": "AN202608101827811239",
+          "title": "拓荆科技:2026年限制性股票激励计划(草案)摘要公告",
+          "notice_date": "2026-09-01 00:00:00",
+          "art_code": "AN202608311828826187",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         },
         {
-          "title": "拓荆科技:2023年限制性股票激励计划首次授予部分第二个归属期符合归属条件的公告",
-          "notice_date": "2026-07-31 00:00:00",
-          "art_code": "AN202607301827496818",
+          "title": "拓荆科技:董事会薪酬与考核委员会关于公司2026年限制性股票激励计划(草案)及其摘要的核查意见",
+          "notice_date": "2026-09-01 00:00:00",
+          "art_code": "AN202608311828826182",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
+          "title": "拓荆科技:2026年限制性股票激励计划实施考核管理办法",
+          "notice_date": "2026-09-01 00:00:00",
+          "art_code": "AN202608311828826183",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
+          "title": "拓荆科技:2026年第二次临时股东会会议资料",
+          "notice_date": "2026-09-01 00:00:00",
+          "art_code": "AN202608311828823272",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         }
       ],
       "tushare_income": null,
-      "revaluation_trigger": true,
+      "revaluation_trigger": false,
       "source": "东方财富公告索引"
     },
     {
@@ -3271,6 +3271,13 @@
       "quote_symbol": "sh688120",
       "chain": "先进制程 / 设备 / 材料 / 封装",
       "announcements": [
+        {
+          "title": "华海清科:关于以集中竞价交易方式回购公司股份的进展公告",
+          "notice_date": "2026-09-01 00:00:00",
+          "art_code": "AN202608311828821858",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": true
+        },
         {
           "title": "华海清科:2026年半年度募集资金存放、管理与实际使用情况的专项报告",
           "notice_date": "2026-08-22 00:00:00",
@@ -3331,13 +3338,6 @@
           "title": "华海清科:北京市中伦律师事务所关于华海清科股份有限公司2026年第四次临时股东会的法律意见书",
           "notice_date": "2026-08-20 00:00:00",
           "art_code": "AN202608191828160819",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "华海清科:董事会提名与薪酬委员会关于公司2026年限制性股票激励计划首次授予激励对象名单的公示情况说明及核查意见",
-          "notice_date": "2026-08-14 00:00:00",
-          "art_code": "AN202608131827940746",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         }
@@ -3612,6 +3612,13 @@
       "chain": "先进制程 / 设备 / 材料 / 封装",
       "announcements": [
         {
+          "title": "长电科技:2026年半年度业绩说明会记录",
+          "notice_date": "2026-08-31 00:00:00",
+          "art_code": "AN202608311828803914",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
           "title": "长电科技:江苏长电科技股份有限公司董事会薪酬与考核委员会关于公司2025年股票期权激励计划授予相关事项的核查意见",
           "notice_date": "2026-08-21 00:00:00",
           "art_code": "AN202608201828218805",
@@ -3673,13 +3680,6 @@
           "art_code": "AN202608201828218793",
           "source": "东方财富公告索引",
           "revaluation_trigger": true
-        },
-        {
-          "title": "长电科技:江苏长电科技股份有限公司2026年中期利润分配方案的公告",
-          "notice_date": "2026-08-21 00:00:00",
-          "art_code": "AN202608201828218797",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
         }
       ],
       "tushare_income": null,
@@ -4575,6 +4575,13 @@
       "chain": "其他AI硬件基础设施",
       "announcements": [
         {
+          "title": "中芯国际:港股公告:翌日披露报表",
+          "notice_date": "2026-09-01 00:00:00",
+          "art_code": "AN202608311828821835",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
           "title": "中芯国际:中芯国际2026年半年度报告摘要",
           "notice_date": "2026-08-28 00:00:00",
           "art_code": "AN202608271828548647",
@@ -4634,13 +4641,6 @@
           "title": "中芯国际:中芯国际关于召开2026年第二季度业绩说明会的预告公告",
           "notice_date": "2026-07-31 00:00:00",
           "art_code": "AN202607301827490939",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "中芯国际:港股公告:董事会会议日期通知",
-          "notice_date": "2026-07-31 00:00:00",
-          "art_code": "AN202607301827490486",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         }
@@ -5255,6 +5255,13 @@
       "chain": "高速铜缆 / 连接器",
       "announcements": [
         {
+          "title": "沃尔核材:H股公告:2026中期报告",
+          "notice_date": "2026-08-31 00:00:00",
+          "art_code": "AN202608301828735630",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
           "title": "沃尔核材:H股公告:截至2026年6月30日止六个月的中期业绩公告",
           "notice_date": "2026-08-25 00:00:00",
           "art_code": "AN202608241828374301",
@@ -5316,17 +5323,10 @@
           "art_code": "AN202608241828365394",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
-        },
-        {
-          "title": "沃尔核材:2026年半年度报告摘要",
-          "notice_date": "2026-08-25 00:00:00",
-          "art_code": "AN202608240006746239",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": true
         }
       ],
       "tushare_income": null,
-      "revaluation_trigger": true,
+      "revaluation_trigger": false,
       "source": "东方财富公告索引"
     },
     {
@@ -5510,6 +5510,13 @@
       "chain": "AI服务器 / 算力基础设施",
       "announcements": [
         {
+          "title": "润泽科技:投资者关系活动记录表",
+          "notice_date": "2026-08-30 00:00:00",
+          "art_code": "AN202608301828746331",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
           "title": "润泽科技:董事会薪酬与考核委员会工作细则(2026年8月修订)",
           "notice_date": "2026-08-28 00:00:00",
           "art_code": "AN202608271828554435",
@@ -5569,13 +5576,6 @@
           "title": "润泽科技:关于召开2026年第二次临时股东会的通知",
           "notice_date": "2026-08-28 00:00:00",
           "art_code": "AN202608271828554437",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "润泽科技:关于拟变更注册资本、修改《公司章程》及修订部分制度的公告",
-          "notice_date": "2026-08-28 00:00:00",
-          "art_code": "AN202608271828554352",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         }
@@ -5765,6 +5765,20 @@
       "chain": "AI服务器PCB / 覆铜板",
       "announcements": [
         {
+          "title": "南亚新材:关于2025年度向特定对象发行A股股票募集说明书(注册稿)等相关文件更新的提示性公告",
+          "notice_date": "2026-09-01 00:00:00",
+          "art_code": "AN202608311828828987",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
+          "title": "南亚新材:2025年度向特定对象发行A股股票募集说明书(注册稿)",
+          "notice_date": "2026-09-01 00:00:00",
+          "art_code": "AN202608311828828988",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
           "title": "南亚新材:独立董事提名人声明与承诺-唐艳玲",
           "notice_date": "2026-08-29 00:00:00",
           "art_code": "AN202608281828633527",
@@ -5819,20 +5833,6 @@
           "art_code": "AN202608281828633536",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
-        },
-        {
-          "title": "南亚新材:2026年半年度报告摘要",
-          "notice_date": "2026-08-29 00:00:00",
-          "art_code": "AN202608281828633546",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": true
-        },
-        {
-          "title": "南亚新材:独立董事候选人声明与承诺-唐艳玲",
-          "notice_date": "2026-08-29 00:00:00",
-          "art_code": "AN202608281828633528",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
         }
       ],
       "tushare_income": null,
@@ -5849,6 +5849,13 @@
       "quote_symbol": "sz300870",
       "chain": "AI服务器 / 算力基础设施",
       "announcements": [
+        {
+          "title": "欧陆通:2026年8月26日-8月28日投资者关系活动记录表",
+          "notice_date": "2026-08-31 00:00:00",
+          "art_code": "AN202608311828806805",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
         {
           "title": "欧陆通:国金证券股份有限公司关于深圳欧陆通电子股份有限公司不提前赎回欧通转债的核查意见",
           "notice_date": "2026-08-28 00:00:00",
@@ -5909,13 +5916,6 @@
           "title": "欧陆通:关于部分募集资金投资项目调整内部结构的公告",
           "notice_date": "2026-08-26 00:00:00",
           "art_code": "AN202608251828423280",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "欧陆通:独立董事提名人声明与承诺-杨小平",
-          "notice_date": "2026-08-26 00:00:00",
-          "art_code": "AN202608251828423305",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         }
@@ -6190,6 +6190,13 @@
       "chain": "HBM / 存储 / 内存接口",
       "announcements": [
         {
+          "title": "江波龙:关于刊发H股招股说明书、H股发行价格上限及H股香港公开发售等事宜的公告",
+          "notice_date": "2026-08-31 00:00:00",
+          "art_code": "AN202608311828753842",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
+        {
           "title": "江波龙:关于与专业投资机构共同投资的进展公告",
           "notice_date": "2026-08-28 00:00:00",
           "art_code": "AN202608281828647062",
@@ -6251,13 +6258,6 @@
           "art_code": "AN202608251828428694",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
-        },
-        {
-          "title": "江波龙:中信建投证券股份有限公司关于公司使用自有资金支付募投项目部分款项后续以募集资金等额置换的核查意见",
-          "notice_date": "2026-08-26 00:00:00",
-          "art_code": "AN202608251828428690",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
         }
       ],
       "tushare_income": null,
@@ -6274,6 +6274,13 @@
       "quote_symbol": "sz300857",
       "chain": "HBM / 存储 / 内存接口",
       "announcements": [
+        {
+          "title": "协创数据:关于公司为全资子公司提供担保的进展公告",
+          "notice_date": "2026-08-31 00:00:00",
+          "art_code": "AN202608311828810644",
+          "source": "东方财富公告索引",
+          "revaluation_trigger": false
+        },
         {
           "title": "协创数据:关于2026年半年度报告披露的提示性公告",
           "notice_date": "2026-08-28 00:00:00",
@@ -6334,13 +6341,6 @@
           "title": "协创数据:广东信达律师事务所关于协创数据技术股份有限公司2026年第七次临时股东会的法律意见书",
           "notice_date": "2026-08-20 00:00:00",
           "art_code": "AN202608201828210872",
-          "source": "东方财富公告索引",
-          "revaluation_trigger": false
-        },
-        {
-          "title": "协创数据:2026年第七次临时股东会决议公告",
-          "notice_date": "2026-08-20 00:00:00",
-          "art_code": "AN202608201828210731",
           "source": "东方财富公告索引",
           "revaluation_trigger": false
         }
