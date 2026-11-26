@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-26T02:47:38.180682+08:00",
-  "beijing_date": "2026-11-26",
-  "market_date": "2026-11-25",
+  "generated_at": "2026-11-27T02:35:10.921706+08:00",
+  "beijing_date": "2026-11-27",
+  "market_date": "2026-11-26",
   "market_state": "未产生当日收盘｜显示最近交易日",
   "status": "有效80/80｜本轮更新80/80｜双源一致80/80",
   "source_policy": {
@@ -23,16 +23,16 @@
       "secid": "0.300308",
       "quote_symbol": "sz300308",
       "chain": "AI网络 / 光互连 / CPO",
-      "price": 409.0,
-      "prev_close": 417.0,
-      "change_pct": -1.918465227817745,
-      "time": "20261125161430",
-      "quote_date": "2026-11-25",
+      "price": 430.18,
+      "prev_close": 409.0,
+      "change_pct": 5.178484107579462,
+      "time": "20261126161445",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 409.0,
-        "东方财富": 409.0
+        "腾讯": 430.18,
+        "东方财富": 430.18
       },
       "stale": false
     },
@@ -45,16 +45,16 @@
       "secid": "1.688008",
       "quote_symbol": "sh688008",
       "chain": "HBM / 存储 / 内存接口",
-      "price": 126.4,
-      "prev_close": 133.17,
-      "change_pct": -5.08372756626867,
-      "time": "20261125161457",
-      "quote_date": "2026-11-25",
+      "price": 124.9,
+      "prev_close": 126.4,
+      "change_pct": -1.186708860759489,
+      "time": "20261126161449",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 126.4,
-        "东方财富": 126.4
+        "腾讯": 124.9,
+        "东方财富": 124.9
       },
       "stale": false
     },
@@ -67,16 +67,16 @@
       "secid": "0.002371",
       "quote_symbol": "sz002371",
       "chain": "先进制程 / 设备 / 材料 / 封装",
-      "price": 495.0,
-      "prev_close": 547.24,
-      "change_pct": -9.546085812440609,
-      "time": "20261125161430",
-      "quote_date": "2026-11-25",
+      "price": 479.44,
+      "prev_close": 495.0,
+      "change_pct": -3.143434343434348,
+      "time": "20261126161457",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 495.0,
-        "东方财富": 495.0
+        "腾讯": 479.44,
+        "东方财富": 479.44
       },
       "stale": false
     },
@@ -89,16 +89,16 @@
       "secid": "116.00522",
       "quote_symbol": "hk00522",
       "chain": "HBM / 存储 / 内存接口",
-      "price": 79.95,
-      "prev_close": 90.2,
-      "change_pct": -11.363636363636365,
-      "time": "2026/11/25 16:08:10",
-      "quote_date": "2026-11-25",
+      "price": 80.65,
+      "prev_close": 79.95,
+      "change_pct": 0.8755472170106415,
+      "time": "2026/11/26 16:08:07",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 79.95,
-        "东方财富": 79.95
+        "腾讯": 80.65,
+        "东方财富": 80.65
       },
       "stale": false
     },
@@ -111,16 +111,16 @@
       "secid": "1.601138",
       "quote_symbol": "sh601138",
       "chain": "AI服务器 / 算力基础设施",
-      "price": 39.61,
-      "prev_close": 40.96,
-      "change_pct": -3.2958984375,
-      "time": "20261125161500",
-      "quote_date": "2026-11-25",
+      "price": 41.0,
+      "prev_close": 39.61,
+      "change_pct": 3.509214844736186,
+      "time": "20261126161451",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 39.61,
-        "东方财富": 39.61
+        "腾讯": 41.0,
+        "东方财富": 41.0
       },
       "stale": false
     },
@@ -133,16 +133,16 @@
       "secid": "0.300502",
       "quote_symbol": "sz300502",
       "chain": "AI网络 / 光互连 / CPO",
-      "price": 181.3,
-      "prev_close": 180.01,
-      "change_pct": 0.7166268540636844,
-      "time": "20261125161418",
-      "quote_date": "2026-11-25",
+      "price": 189.03,
+      "prev_close": 181.3,
+      "change_pct": 4.263651406508551,
+      "time": "20261126161415",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 181.3,
-        "东方财富": 181.3
+        "腾讯": 189.03,
+        "东方财富": 189.03
       },
       "stale": false
     },
@@ -155,16 +155,16 @@
       "secid": "0.002463",
       "quote_symbol": "sz002463",
       "chain": "AI服务器PCB / 覆铜板",
-      "price": 79.49,
-      "prev_close": 84.13,
-      "change_pct": -5.515273980744084,
-      "time": "20261125161406",
-      "quote_date": "2026-11-25",
+      "price": 81.09,
+      "prev_close": 79.49,
+      "change_pct": 2.0128318027424985,
+      "time": "20261126161457",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 79.49,
-        "东方财富": 79.49
+        "腾讯": 81.09,
+        "东方财富": 81.09
       },
       "stale": false
     },
@@ -177,16 +177,16 @@
       "secid": "1.601869",
       "quote_symbol": "sh601869",
       "chain": "AI网络 / 光互连 / CPO",
-      "price": 198.1,
-      "prev_close": 207.7,
-      "change_pct": -4.622051035146846,
-      "time": "20261125161448",
-      "quote_date": "2026-11-25",
+      "price": 201.31,
+      "prev_close": 198.1,
+      "change_pct": 1.6203937405350866,
+      "time": "20261126161456",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 198.1,
-        "东方财富": 198.1
+        "腾讯": 201.31,
+        "东方财富": 201.31
       },
       "stale": false
     },
@@ -199,16 +199,16 @@
       "secid": "1.600183",
       "quote_symbol": "sh600183",
       "chain": "AI服务器PCB / 覆铜板",
-      "price": 58.43,
-      "prev_close": 61.6,
-      "change_pct": -5.146103896103904,
-      "time": "20261125161439",
-      "quote_date": "2026-11-25",
+      "price": 61.85,
+      "prev_close": 58.43,
+      "change_pct": 5.853157624507954,
+      "time": "20261126161500",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 58.43,
-        "东方财富": 58.43
+        "腾讯": 61.85,
+        "东方财富": 61.85
       },
       "stale": false
     },
@@ -221,16 +221,16 @@
       "secid": "0.300394",
       "quote_symbol": "sz300394",
       "chain": "AI网络 / 光互连 / CPO",
-      "price": 130.87,
-      "prev_close": 121.57,
-      "change_pct": 7.649913630007421,
-      "time": "20261125161439",
-      "quote_date": "2026-11-25",
+      "price": 133.99,
+      "prev_close": 130.87,
+      "change_pct": 2.3840452357301256,
+      "time": "20261126161445",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 130.87,
-        "东方财富": 130.87
+        "腾讯": 133.99,
+        "东方财富": 133.99
       },
       "stale": false
     },
@@ -243,16 +243,16 @@
       "secid": "1.688041",
       "quote_symbol": "sh688041",
       "chain": "AI芯片 / ASIC / 端侧算力",
-      "price": 157.95,
-      "prev_close": 163.01,
-      "change_pct": -3.1041040426967648,
-      "time": "20261125161441",
-      "quote_date": "2026-11-25",
+      "price": 157.88,
+      "prev_close": 157.95,
+      "change_pct": -0.044317822095596426,
+      "time": "20261126161455",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 157.95,
-        "东方财富": 157.95
+        "腾讯": 157.88,
+        "东方财富": 157.88
       },
       "stale": false
     },
@@ -265,16 +265,16 @@
       "secid": "1.688256",
       "quote_symbol": "sh688256",
       "chain": "AI芯片 / ASIC / 端侧算力",
-      "price": 907.9,
-      "prev_close": 970.0,
-      "change_pct": -6.402061855670105,
-      "time": "20261125161453",
-      "quote_date": "2026-11-25",
+      "price": 942.85,
+      "prev_close": 907.9,
+      "change_pct": 3.8495429012005866,
+      "time": "20261126161444",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 907.9,
-        "东方财富": 907.9
+        "腾讯": 942.85,
+        "东方财富": 942.85
       },
       "stale": false
     },
@@ -287,16 +287,16 @@
       "secid": "0.002916",
       "quote_symbol": "sz002916",
       "chain": "先进制程 / 设备 / 材料 / 封装",
-      "price": 196.96,
-      "prev_close": 207.5,
-      "change_pct": -5.079518072289158,
-      "time": "20261125161448",
-      "quote_date": "2026-11-25",
+      "price": 204.47,
+      "prev_close": 196.96,
+      "change_pct": 3.8129569455727097,
+      "time": "20261126161445",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 196.96,
-        "东方财富": 196.96
+        "腾讯": 204.47,
+        "东方财富": 204.47
       },
       "stale": false
     },
@@ -309,16 +309,16 @@
       "secid": "1.688012",
       "quote_symbol": "sh688012",
       "chain": "先进制程 / 设备 / 材料 / 封装",
-      "price": 239.9,
-      "prev_close": 259.23,
-      "change_pct": -7.456698684565833,
-      "time": "20261125161459",
-      "quote_date": "2026-11-25",
+      "price": 224.25,
+      "prev_close": 239.9,
+      "change_pct": -6.52355147978324,
+      "time": "20261126161449",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 239.9,
-        "东方财富": 239.9
+        "腾讯": 224.25,
+        "东方财富": 224.25
       },
       "stale": false
     },
@@ -331,16 +331,16 @@
       "secid": "0.000977",
       "quote_symbol": "sz000977",
       "chain": "AI服务器 / 算力基础设施",
-      "price": 42.1,
-      "prev_close": 43.99,
-      "change_pct": -4.296431007047053,
-      "time": "20261125161500",
-      "quote_date": "2026-11-25",
+      "price": 42.55,
+      "prev_close": 42.1,
+      "change_pct": 1.0688836104512989,
+      "time": "20261126161500",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 42.1,
-        "东方财富": 42.1
+        "腾讯": 42.55,
+        "东方财富": 42.55
       },
       "stale": false
     },
@@ -353,16 +353,16 @@
       "secid": "0.000938",
       "quote_symbol": "sz000938",
       "chain": "HBM / 存储 / 内存接口",
-      "price": 20.96,
-      "prev_close": 22.32,
-      "change_pct": -6.093189964157708,
-      "time": "20261125161457",
-      "quote_date": "2026-11-25",
+      "price": 21.43,
+      "prev_close": 20.96,
+      "change_pct": 2.2423664122137366,
+      "time": "20261126161451",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 20.96,
-        "东方财富": 20.96
+        "腾讯": 21.43,
+        "东方财富": 21.43
       },
       "stale": false
     },
@@ -375,16 +375,16 @@
       "secid": "0.301269",
       "quote_symbol": "sz301269",
       "chain": "先进制程 / 设备 / 材料 / 封装",
-      "price": 86.38,
-      "prev_close": 92.99,
-      "change_pct": -7.108291214109041,
-      "time": "20261125161400",
-      "quote_date": "2026-11-25",
+      "price": 88.32,
+      "prev_close": 86.38,
+      "change_pct": 2.2458902523732283,
+      "time": "20261126161445",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 86.38,
-        "东方财富": 86.38
+        "腾讯": 88.32,
+        "东方财富": 88.32
       },
       "stale": false
     },
@@ -397,16 +397,16 @@
       "secid": "1.603019",
       "quote_symbol": "sh603019",
       "chain": "AI服务器 / 算力基础设施",
-      "price": 70.97,
-      "prev_close": 73.39,
-      "change_pct": -3.297451968933096,
-      "time": "20261125161459",
-      "quote_date": "2026-11-25",
+      "price": 69.14,
+      "prev_close": 70.97,
+      "change_pct": -2.5785543187262228,
+      "time": "20261126161448",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 70.97,
-        "东方财富": 70.97
+        "腾讯": 69.14,
+        "东方财富": 69.14
       },
       "stale": false
     },
@@ -419,16 +419,16 @@
       "secid": "1.688498",
       "quote_symbol": "sh688498",
       "chain": "AI网络 / 光互连 / CPO",
-      "price": 571.0,
-      "prev_close": 599.3,
-      "change_pct": -4.722175871850487,
-      "time": "20261125161452",
-      "quote_date": "2026-11-25",
+      "price": 587.0,
+      "prev_close": 571.0,
+      "change_pct": 2.8021015761821255,
+      "time": "20261126161442",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 571.0,
-        "东方财富": 571.0
+        "腾讯": 587.0,
+        "东方财富": 587.0
       },
       "stale": false
     },
@@ -441,16 +441,16 @@
       "secid": "1.603986",
       "quote_symbol": "sh603986",
       "chain": "HBM / 存储 / 内存接口",
-      "price": 198.28,
-      "prev_close": 212.5,
-      "change_pct": -6.691764705882353,
-      "time": "20261125161439",
-      "quote_date": "2026-11-25",
+      "price": 197.58,
+      "prev_close": 198.28,
+      "change_pct": -0.3530361105507307,
+      "time": "20261126161500",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 198.28,
-        "东方财富": 198.28
+        "腾讯": 197.58,
+        "东方财富": 197.58
       },
       "stale": false
     },
@@ -463,16 +463,16 @@
       "secid": "0.000988",
       "quote_symbol": "sz000988",
       "chain": "AI网络 / 光互连 / CPO",
-      "price": 58.2,
-      "prev_close": 61.39,
-      "change_pct": -5.196286040071674,
-      "time": "20261125161445",
-      "quote_date": "2026-11-25",
+      "price": 58.65,
+      "prev_close": 58.2,
+      "change_pct": 0.773195876288657,
+      "time": "20261126161445",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 58.2,
-        "东方财富": 58.2
+        "腾讯": 58.65,
+        "东方财富": 58.65
       },
       "stale": false
     },
@@ -485,16 +485,16 @@
       "secid": "0.002281",
       "quote_symbol": "sz002281",
       "chain": "AI网络 / 光互连 / CPO",
-      "price": 78.13,
-      "prev_close": 80.8,
-      "change_pct": -3.304455445544552,
-      "time": "20261125161430",
-      "quote_date": "2026-11-25",
+      "price": 79.14,
+      "prev_close": 78.13,
+      "change_pct": 1.292717266094967,
+      "time": "20261126161430",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 78.13,
-        "东方财富": 78.13
+        "腾讯": 79.14,
+        "东方财富": 79.14
       },
       "stale": false
     },
@@ -507,16 +507,16 @@
       "secid": "1.600406",
       "quote_symbol": "sh600406",
       "chain": "液冷 / 电源 / AI电力系统",
-      "price": 24.6,
-      "prev_close": 24.72,
-      "change_pct": -0.4854368932038722,
-      "time": "20261125161456",
-      "quote_date": "2026-11-25",
+      "price": 24.59,
+      "prev_close": 24.6,
+      "change_pct": -0.04065040650407248,
+      "time": "20261126161447",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 24.6,
-        "东方财富": 24.6
+        "腾讯": 24.59,
+        "东方财富": 24.59
       },
       "stale": false
     },
@@ -529,16 +529,16 @@
       "secid": "0.002475",
       "quote_symbol": "sz002475",
       "chain": "高速铜缆 / 连接器",
-      "price": 46.47,
-      "prev_close": 48.1,
-      "change_pct": -3.3887733887733917,
-      "time": "20261125161451",
-      "quote_date": "2026-11-25",
+      "price": 46.4,
+      "prev_close": 46.47,
+      "change_pct": -0.1506348181622541,
+      "time": "20261126161451",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 46.47,
-        "东方财富": 46.47
+        "腾讯": 46.4,
+        "东方财富": 46.4
       },
       "stale": false
     },
@@ -551,16 +551,16 @@
       "secid": "0.002837",
       "quote_symbol": "sz002837",
       "chain": "AI服务器 / 算力基础设施",
-      "price": 30.7,
-      "prev_close": 32.54,
-      "change_pct": -5.654578979717273,
-      "time": "20261125161451",
-      "quote_date": "2026-11-25",
+      "price": 30.58,
+      "prev_close": 30.7,
+      "change_pct": -0.3908794788273662,
+      "time": "20261126161445",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 30.7,
-        "东方财富": 30.7
+        "腾讯": 30.58,
+        "东方财富": 30.58
       },
       "stale": false
     },
@@ -573,16 +573,16 @@
       "secid": "0.300476",
       "quote_symbol": "sz300476",
       "chain": "AI服务器PCB / 覆铜板",
-      "price": 121.49,
-      "prev_close": 122.32,
-      "change_pct": -0.6785480706343994,
-      "time": "20261125161457",
-      "quote_date": "2026-11-25",
+      "price": 123.7,
+      "prev_close": 121.49,
+      "change_pct": 1.81907975965101,
+      "time": "20261126161448",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 121.49,
-        "东方财富": 121.49
+        "腾讯": 123.7,
+        "东方财富": 123.7
       },
       "stale": false
     },
@@ -595,16 +595,16 @@
       "secid": "116.09660",
       "quote_symbol": "hk09660",
       "chain": "AI芯片 / ASIC / 端侧算力",
-      "price": 2.845,
-      "prev_close": 2.965,
-      "change_pct": -4.0472175379426485,
-      "time": "2026/11/25 16:08:10",
-      "quote_date": "2026-11-25",
+      "price": 2.84,
+      "prev_close": 2.845,
+      "change_pct": -0.17574692442883233,
+      "time": "2026/11/26 16:08:11",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 2.845,
-        "东方财富": 2.845
+        "腾讯": 2.84,
+        "东方财富": 2.84
       },
       "stale": false
     },
@@ -617,16 +617,16 @@
       "secid": "1.603893",
       "quote_symbol": "sh603893",
       "chain": "AI芯片 / ASIC / 端侧算力",
-      "price": 193.69,
-      "prev_close": 207.49,
-      "change_pct": -6.650922936045111,
-      "time": "20261125161452",
-      "quote_date": "2026-11-25",
+      "price": 192.47,
+      "prev_close": 193.69,
+      "change_pct": -0.6298724766379271,
+      "time": "20261126161457",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 193.69,
-        "东方财富": 193.69
+        "腾讯": 192.47,
+        "东方财富": 192.47
       },
       "stale": false
     },
@@ -639,16 +639,16 @@
       "secid": "1.688521",
       "quote_symbol": "sh688521",
       "chain": "AI芯片 / ASIC / 端侧算力",
-      "price": 75.55,
-      "prev_close": 83.16,
-      "change_pct": -9.151034151034153,
-      "time": "20261125161444",
-      "quote_date": "2026-11-25",
+      "price": 74.84,
+      "prev_close": 75.55,
+      "change_pct": -0.9397749834546554,
+      "time": "20261126161452",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 75.55,
-        "东方财富": 75.55
+        "腾讯": 74.84,
+        "东方财富": 74.84
       },
       "stale": false
     },
@@ -661,16 +661,16 @@
       "secid": "0.002409",
       "quote_symbol": "sz002409",
       "chain": "HBM / 存储 / 内存接口",
-      "price": 71.68,
-      "prev_close": 79.57,
-      "change_pct": -9.91579741108456,
-      "time": "20261125161418",
-      "quote_date": "2026-11-25",
+      "price": 72.85,
+      "prev_close": 71.68,
+      "change_pct": 1.6322544642856984,
+      "time": "20261126161430",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 71.68,
-        "东方财富": 71.68
+        "腾讯": 72.85,
+        "东方财富": 72.85
       },
       "stale": false
     },
@@ -683,16 +683,16 @@
       "secid": "1.688082",
       "quote_symbol": "sh688082",
       "chain": "先进制程 / 设备 / 材料 / 封装",
-      "price": 209.03,
-      "prev_close": 225.5,
-      "change_pct": -7.303769401330373,
-      "time": "20261125161454",
-      "quote_date": "2026-11-25",
+      "price": 204.0,
+      "prev_close": 209.03,
+      "change_pct": -2.406353155049512,
+      "time": "20261126161446",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 209.03,
-        "东方财富": 209.03
+        "腾讯": 204.0,
+        "东方财富": 204.0
       },
       "stale": false
     },
@@ -705,16 +705,16 @@
       "secid": "0.002028",
       "quote_symbol": "sz002028",
       "chain": "液冷 / 电源 / AI电力系统",
-      "price": 102.67,
-      "prev_close": 110.08,
-      "change_pct": -6.7314680232558155,
-      "time": "20261125161430",
-      "quote_date": "2026-11-25",
+      "price": 100.91,
+      "prev_close": 102.67,
+      "change_pct": -1.714230057465671,
+      "time": "20261126161430",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 102.67,
-        "东方财富": 102.67
+        "腾讯": 100.91,
+        "东方财富": 100.91
       },
       "stale": false
     },
@@ -727,16 +727,16 @@
       "secid": "0.300548",
       "quote_symbol": "sz300548",
       "chain": "AI网络 / 光互连 / CPO",
-      "price": 102.3,
-      "prev_close": 106.64,
-      "change_pct": -4.069767441860472,
-      "time": "20261125161445",
-      "quote_date": "2026-11-25",
+      "price": 102.11,
+      "prev_close": 102.3,
+      "change_pct": -0.1857282502443769,
+      "time": "20261126161421",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 102.3,
-        "东方财富": 102.3
+        "腾讯": 102.11,
+        "东方财富": 102.11
       },
       "stale": false
     },
@@ -749,16 +749,16 @@
       "secid": "1.600522",
       "quote_symbol": "sh600522",
       "chain": "AI网络 / 光互连 / CPO",
-      "price": 20.79,
-      "prev_close": 21.86,
-      "change_pct": -4.8947849954254385,
-      "time": "20261125161448",
-      "quote_date": "2026-11-25",
+      "price": 21.0,
+      "prev_close": 20.79,
+      "change_pct": 1.0101010101010166,
+      "time": "20261126161439",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 20.79,
-        "东方财富": 20.79
+        "腾讯": 21.0,
+        "东方财富": 21.0
       },
       "stale": false
     },
@@ -771,16 +771,16 @@
       "secid": "1.688019",
       "quote_symbol": "sh688019",
       "chain": "先进制程 / 设备 / 材料 / 封装",
-      "price": 195.86,
-      "prev_close": 217.79,
-      "change_pct": -10.069332843564894,
-      "time": "20261125161443",
-      "quote_date": "2026-11-25",
+      "price": 190.71,
+      "prev_close": 195.86,
+      "change_pct": -2.6294291841110984,
+      "time": "20261126161453",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 195.86,
-        "东方财富": 195.86
+        "腾讯": 190.71,
+        "东方财富": 190.71
       },
       "stale": false
     },
@@ -793,16 +793,16 @@
       "secid": "1.688629",
       "quote_symbol": "sh688629",
       "chain": "高速铜缆 / 连接器",
-      "price": 83.06,
-      "prev_close": 96.15,
-      "change_pct": -13.614144565782638,
-      "time": "20261125161500",
-      "quote_date": "2026-11-25",
+      "price": 92.5,
+      "prev_close": 83.06,
+      "change_pct": 11.365278112208044,
+      "time": "20261126161458",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 83.06,
-        "东方财富": 83.06
+        "腾讯": 92.5,
+        "东方财富": 92.5
       },
       "stale": false
     },
@@ -815,16 +815,16 @@
       "secid": "0.001389",
       "quote_symbol": "sz001389",
       "chain": "AI服务器PCB / 覆铜板",
-      "price": 79.5,
-      "prev_close": 82.5,
-      "change_pct": -3.6363636363636376,
-      "time": "20261125161500",
-      "quote_date": "2026-11-25",
+      "price": 82.37,
+      "prev_close": 79.5,
+      "change_pct": 3.610062893081767,
+      "time": "20261126161500",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 79.5,
-        "东方财富": 79.5
+        "腾讯": 82.37,
+        "东方财富": 82.37
       },
       "stale": false
     },
@@ -837,16 +837,16 @@
       "secid": "1.600487",
       "quote_symbol": "sh600487",
       "chain": "AI网络 / 光互连 / CPO",
-      "price": 34.2,
-      "prev_close": 36.5,
-      "change_pct": -6.301369863013695,
-      "time": "20261125161457",
-      "quote_date": "2026-11-25",
+      "price": 34.66,
+      "prev_close": 34.2,
+      "change_pct": 1.3450292397660712,
+      "time": "20261126161452",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 34.2,
-        "东方财富": 34.2
+        "腾讯": 34.66,
+        "东方财富": 34.66
       },
       "stale": false
     },
@@ -859,16 +859,16 @@
       "secid": "0.002049",
       "quote_symbol": "sz002049",
       "chain": "AI芯片 / ASIC / 端侧算力",
-      "price": 46.2,
-      "prev_close": 48.42,
-      "change_pct": -4.5848822800495626,
-      "time": "20261125161445",
-      "quote_date": "2026-11-25",
+      "price": 45.56,
+      "prev_close": 46.2,
+      "change_pct": -1.3852813852813894,
+      "time": "20261126161445",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 46.2,
-        "东方财富": 46.2
+        "腾讯": 45.56,
+        "东方财富": 45.56
       },
       "stale": false
     },
@@ -881,16 +881,16 @@
       "secid": "1.688072",
       "quote_symbol": "sh688072",
       "chain": "先进制程 / 设备 / 材料 / 封装",
-      "price": 466.66,
-      "prev_close": 517.34,
-      "change_pct": -9.796265512042368,
-      "time": "20261125161457",
-      "quote_date": "2026-11-25",
+      "price": 456.14,
+      "prev_close": 466.66,
+      "change_pct": -2.25431791882742,
+      "time": "20261126161448",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 466.66,
-        "东方财富": 466.66
+        "腾讯": 456.14,
+        "东方财富": 456.14
       },
       "stale": false
     },
@@ -903,16 +903,16 @@
       "secid": "1.688120",
       "quote_symbol": "sh688120",
       "chain": "先进制程 / 设备 / 材料 / 封装",
-      "price": 193.01,
-      "prev_close": 204.0,
-      "change_pct": -5.387254901960792,
-      "time": "20261125161438",
-      "quote_date": "2026-11-25",
+      "price": 181.54,
+      "prev_close": 193.01,
+      "change_pct": -5.9426972695715286,
+      "time": "20261126161459",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 193.01,
-        "东方财富": 193.01
+        "腾讯": 181.54,
+        "东方财富": 181.54
       },
       "stale": false
     },
@@ -925,16 +925,16 @@
       "secid": "1.603501",
       "quote_symbol": "sh603501",
       "chain": "物理AI核心硬件",
-      "price": 83.84,
-      "prev_close": 86.68,
-      "change_pct": -3.2764190124596304,
-      "time": "20261125161453",
-      "quote_date": "2026-11-25",
+      "price": 82.0,
+      "prev_close": 83.84,
+      "change_pct": -2.194656488549618,
+      "time": "20261126161452",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 83.84,
-        "东方财富": 83.84
+        "腾讯": 82.0,
+        "东方财富": 82.0
       },
       "stale": false
     },
@@ -947,16 +947,16 @@
       "secid": "1.603083",
       "quote_symbol": "sh603083",
       "chain": "AI网络 / 光互连 / CPO",
-      "price": 96.0,
-      "prev_close": 99.2,
-      "change_pct": -3.2258064516129115,
-      "time": "20261125161452",
-      "quote_date": "2026-11-25",
+      "price": 96.03,
+      "prev_close": 96.0,
+      "change_pct": 0.031249999999993783,
+      "time": "20261126161457",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 96.0,
-        "东方财富": 96.0
+        "腾讯": 96.03,
+        "东方财富": 96.03
       },
       "stale": false
     },
@@ -969,16 +969,16 @@
       "secid": "0.002156",
       "quote_symbol": "sz002156",
       "chain": "AI芯片 / ASIC / 端侧算力",
-      "price": 36.01,
-      "prev_close": 39.34,
-      "change_pct": -8.464667005592286,
-      "time": "20261125161436",
-      "quote_date": "2026-11-25",
+      "price": 36.48,
+      "prev_close": 36.01,
+      "change_pct": 1.305193001943894,
+      "time": "20261126161448",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 36.01,
-        "东方财富": 36.01
+        "腾讯": 36.48,
+        "东方财富": 36.48
       },
       "stale": false
     },
@@ -991,16 +991,16 @@
       "secid": "1.600584",
       "quote_symbol": "sh600584",
       "chain": "先进制程 / 设备 / 材料 / 封装",
-      "price": 47.19,
-      "prev_close": 51.22,
-      "change_pct": -7.868020304568535,
-      "time": "20261125161458",
-      "quote_date": "2026-11-25",
+      "price": 47.8,
+      "prev_close": 47.19,
+      "change_pct": 1.2926467471922054,
+      "time": "20261126161450",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 47.19,
-        "东方财富": 47.19
+        "腾讯": 47.8,
+        "东方财富": 47.8
       },
       "stale": false
     },
@@ -1013,16 +1013,16 @@
       "secid": "0.002179",
       "quote_symbol": "sz002179",
       "chain": "高速铜缆 / 连接器",
-      "price": 32.7,
-      "prev_close": 33.89,
-      "change_pct": -3.5113602832693935,
-      "time": "20261125161415",
-      "quote_date": "2026-11-25",
+      "price": 32.49,
+      "prev_close": 32.7,
+      "change_pct": -0.6422018348623881,
+      "time": "20261126161454",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 32.7,
-        "东方财富": 32.7
+        "腾讯": 32.49,
+        "东方财富": 32.49
       },
       "stale": false
     },
@@ -1035,16 +1035,16 @@
       "secid": "116.06088",
       "quote_symbol": "hk06088",
       "chain": "高速铜缆 / 连接器",
-      "price": 2.04,
-      "prev_close": 2.185,
-      "change_pct": -6.636155606407323,
-      "time": "2026/11/25 16:08:11",
-      "quote_date": "2026-11-25",
+      "price": 2.09,
+      "prev_close": 2.04,
+      "change_pct": 2.450980392156854,
+      "time": "2026/11/26 16:08:11",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 2.04,
-        "东方财富": 2.04
+        "腾讯": 2.09,
+        "东方财富": 2.09
       },
       "stale": false
     },
@@ -1057,16 +1057,16 @@
       "secid": "0.000063",
       "quote_symbol": "sz000063",
       "chain": "AI服务器 / 算力基础设施",
-      "price": 25.43,
-      "prev_close": 26.67,
-      "change_pct": -4.649418822647178,
-      "time": "20261125161454",
-      "quote_date": "2026-11-25",
+      "price": 25.66,
+      "prev_close": 25.43,
+      "change_pct": 0.9044435705859222,
+      "time": "20261126161445",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 25.43,
-        "东方财富": 25.43
+        "腾讯": 25.66,
+        "东方财富": 25.66
       },
       "stale": false
     },
@@ -1079,16 +1079,16 @@
       "secid": "1.688668",
       "quote_symbol": "sh688668",
       "chain": "高速铜缆 / 连接器",
-      "price": 79.52,
-      "prev_close": 84.81,
-      "change_pct": -6.237471996226862,
-      "time": "20261125161447",
-      "quote_date": "2026-11-25",
+      "price": 79.65,
+      "prev_close": 79.52,
+      "change_pct": 0.1634808853118841,
+      "time": "20261126161438",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 79.52,
-        "东方财富": 79.52
+        "腾讯": 79.65,
+        "东方财富": 79.65
       },
       "stale": false
     },
@@ -1101,16 +1101,16 @@
       "secid": "0.002335",
       "quote_symbol": "sz002335",
       "chain": "AI服务器 / 算力基础设施",
-      "price": 21.13,
-      "prev_close": 22.43,
-      "change_pct": -5.795809184128398,
-      "time": "20261125161448",
-      "quote_date": "2026-11-25",
+      "price": 20.97,
+      "prev_close": 21.13,
+      "change_pct": -0.7572172266919086,
+      "time": "20261126161415",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 21.13,
-        "东方财富": 21.13
+        "腾讯": 20.97,
+        "东方财富": 20.97
       },
       "stale": false
     },
@@ -1123,16 +1123,16 @@
       "secid": "1.688702",
       "quote_symbol": "sh688702",
       "chain": "AI网络 / 交换芯片 / 设备",
-      "price": 157.08,
-      "prev_close": 172.52,
-      "change_pct": -8.949686992812422,
-      "time": "20261125161449",
-      "quote_date": "2026-11-25",
+      "price": 163.6,
+      "prev_close": 157.08,
+      "change_pct": 4.150751209574732,
+      "time": "20261126161438",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 157.08,
-        "东方财富": 157.08
+        "腾讯": 163.6,
+        "东方财富": 163.6
       },
       "stale": false
     },
@@ -1145,16 +1145,16 @@
       "secid": "0.300570",
       "quote_symbol": "sz300570",
       "chain": "AI网络 / 光互连 / CPO",
-      "price": 94.57,
-      "prev_close": 98.45,
-      "change_pct": -3.941086846114794,
-      "time": "20261125161448",
-      "quote_date": "2026-11-25",
+      "price": 95.57,
+      "prev_close": 94.57,
+      "change_pct": 1.0574177857671563,
+      "time": "20261126161445",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 94.57,
-        "东方财富": 94.57
+        "腾讯": 95.57,
+        "东方财富": 95.57
       },
       "stale": false
     },
@@ -1167,16 +1167,16 @@
       "secid": "0.300054",
       "quote_symbol": "sz300054",
       "chain": "先进制程 / 设备 / 材料 / 封装",
-      "price": 53.33,
-      "prev_close": 58.48,
-      "change_pct": -8.80642954856361,
-      "time": "20261125161409",
-      "quote_date": "2026-11-25",
+      "price": 52.2,
+      "prev_close": 53.33,
+      "change_pct": -2.1188824301518805,
+      "time": "20261126161418",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 53.33,
-        "东方财富": 53.33
+        "腾讯": 52.2,
+        "东方财富": 52.2
       },
       "stale": false
     },
@@ -1189,16 +1189,16 @@
       "secid": "0.000400",
       "quote_symbol": "sz000400",
       "chain": "液冷 / 电源 / AI电力系统",
-      "price": 25.6,
-      "prev_close": 26.22,
-      "change_pct": -2.3646071700991533,
-      "time": "20261125161445",
-      "quote_date": "2026-11-25",
+      "price": 25.9,
+      "prev_close": 25.6,
+      "change_pct": 1.1718749999999778,
+      "time": "20261126161457",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 25.6,
-        "东方财富": 25.6
+        "腾讯": 25.9,
+        "东方财富": 25.9
       },
       "stale": false
     },
@@ -1211,16 +1211,16 @@
       "secid": "0.002851",
       "quote_symbol": "sz002851",
       "chain": "AI服务器 / 算力基础设施",
-      "price": 60.4,
-      "prev_close": 61.3,
-      "change_pct": -1.4681892332789492,
-      "time": "20261125161451",
-      "quote_date": "2026-11-25",
+      "price": 60.13,
+      "prev_close": 60.4,
+      "change_pct": -0.4470198675496584,
+      "time": "20261126161412",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 60.4,
-        "东方财富": 60.4
+        "腾讯": 60.13,
+        "东方财富": 60.13
       },
       "stale": false
     },
@@ -1233,16 +1233,16 @@
       "secid": "116.00992",
       "quote_symbol": "hk00992",
       "chain": "AI服务器 / 算力基础设施",
-      "price": 16.22,
-      "prev_close": 18.24,
-      "change_pct": -11.074561403508776,
-      "time": "2026/11/25 16:08:06",
-      "quote_date": "2026-11-25",
+      "price": 16.79,
+      "prev_close": 16.22,
+      "change_pct": 3.5141800246609067,
+      "time": "2026/11/26 16:08:11",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 16.22,
-        "东方财富": 16.22
+        "腾讯": 16.79,
+        "东方财富": 16.79
       },
       "stale": false
     },
@@ -1255,16 +1255,16 @@
       "secid": "1.688183",
       "quote_symbol": "sh688183",
       "chain": "AI服务器PCB / 覆铜板",
-      "price": 75.24,
-      "prev_close": 74.55,
-      "change_pct": 0.9255533199195032,
-      "time": "20261125161455",
-      "quote_date": "2026-11-25",
+      "price": 80.5,
+      "prev_close": 75.24,
+      "change_pct": 6.990962254120148,
+      "time": "20261126161447",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 75.24,
-        "东方财富": 75.24
+        "腾讯": 80.5,
+        "东方财富": 80.5
       },
       "stale": false
     },
@@ -1277,16 +1277,16 @@
       "secid": "1.688981",
       "quote_symbol": "sh688981",
       "chain": "其他AI硬件基础设施",
-      "price": 122.0,
-      "prev_close": 126.51,
-      "change_pct": -3.564935578215167,
-      "time": "20261125161448",
-      "quote_date": "2026-11-25",
+      "price": 116.5,
+      "prev_close": 122.0,
+      "change_pct": -4.508196721311474,
+      "time": "20261126161438",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 122.0,
-        "东方财富": 122.0
+        "腾讯": 116.5,
+        "东方财富": 116.5
       },
       "stale": false
     },
@@ -1299,16 +1299,16 @@
       "secid": "1.688313",
       "quote_symbol": "sh688313",
       "chain": "AI网络 / 光互连 / CPO",
-      "price": 72.8,
-      "prev_close": 78.15,
-      "change_pct": -6.845809341010889,
-      "time": "20261125161455",
-      "quote_date": "2026-11-25",
+      "price": 72.68,
+      "prev_close": 72.8,
+      "change_pct": -0.16483516483515315,
+      "time": "20261126161459",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 72.8,
-        "东方财富": 72.8
+        "腾讯": 72.68,
+        "东方财富": 72.68
       },
       "stale": false
     },
@@ -1321,16 +1321,16 @@
       "secid": "0.300346",
       "quote_symbol": "sz300346",
       "chain": "先进制程 / 设备 / 材料 / 封装",
-      "price": 37.52,
-      "prev_close": 41.9,
-      "change_pct": -10.453460620525046,
-      "time": "20261125161430",
-      "quote_date": "2026-11-25",
+      "price": 37.13,
+      "prev_close": 37.52,
+      "change_pct": -1.0394456289978704,
+      "time": "20261126161445",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 37.52,
-        "东方财富": 37.52
+        "腾讯": 37.13,
+        "东方财富": 37.13
       },
       "stale": false
     },
@@ -1343,16 +1343,16 @@
       "secid": "0.300620",
       "quote_symbol": "sz300620",
       "chain": "AI网络 / 光互连 / CPO",
-      "price": 165.56,
-      "prev_close": 165.25,
-      "change_pct": 0.187594553706516,
-      "time": "20261125161430",
-      "quote_date": "2026-11-25",
+      "price": 172.55,
+      "prev_close": 165.56,
+      "change_pct": 4.2220343078038125,
+      "time": "20261126161457",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 165.56,
-        "东方财富": 165.56
+        "腾讯": 172.55,
+        "东方财富": 172.55
       },
       "stale": false
     },
@@ -1365,16 +1365,16 @@
       "secid": "0.300124",
       "quote_symbol": "sz300124",
       "chain": "物理AI核心硬件",
-      "price": 52.23,
-      "prev_close": 53.61,
-      "change_pct": -2.5741466144376113,
-      "time": "20261125161442",
-      "quote_date": "2026-11-25",
+      "price": 51.8,
+      "prev_close": 52.23,
+      "change_pct": -0.8232816389048381,
+      "time": "20261126161451",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 52.23,
-        "东方财富": 52.23
+        "腾讯": 51.8,
+        "东方财富": 51.8
       },
       "stale": false
     },
@@ -1387,16 +1387,16 @@
       "secid": "1.688213",
       "quote_symbol": "sh688213",
       "chain": "物理AI核心硬件",
-      "price": 95.8,
-      "prev_close": 100.0,
-      "change_pct": -4.200000000000004,
-      "time": "20261125161442",
-      "quote_date": "2026-11-25",
+      "price": 87.5,
+      "prev_close": 95.8,
+      "change_pct": -8.663883089770351,
+      "time": "20261126161456",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 95.8,
-        "东方财富": 95.8
+        "腾讯": 87.5,
+        "东方财富": 87.5
       },
       "stale": false
     },
@@ -1409,16 +1409,16 @@
       "secid": "0.300913",
       "quote_symbol": "sz300913",
       "chain": "高速铜缆 / 连接器",
-      "price": 27.12,
-      "prev_close": 28.14,
-      "change_pct": -3.6247334754797467,
-      "time": "20261125161430",
-      "quote_date": "2026-11-25",
+      "price": 26.81,
+      "prev_close": 27.12,
+      "change_pct": -1.1430678466076816,
+      "time": "20261126161445",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 27.12,
-        "东方财富": 27.12
+        "腾讯": 26.81,
+        "东方财富": 26.81
       },
       "stale": false
     },
@@ -1431,16 +1431,16 @@
       "secid": "0.000021",
       "quote_symbol": "sz000021",
       "chain": "HBM / 存储 / 内存接口",
-      "price": 23.0,
-      "prev_close": 24.93,
-      "change_pct": -7.741676694745281,
-      "time": "20261125161415",
-      "quote_date": "2026-11-25",
+      "price": 23.12,
+      "prev_close": 23.0,
+      "change_pct": 0.521739130434784,
+      "time": "20261126161424",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 23.0,
-        "东方财富": 23.0
+        "腾讯": 23.12,
+        "东方财富": 23.12
       },
       "stale": false
     },
@@ -1453,16 +1453,16 @@
       "secid": "0.002130",
       "quote_symbol": "sz002130",
       "chain": "高速铜缆 / 连接器",
-      "price": 12.64,
-      "prev_close": 13.12,
-      "change_pct": -3.658536585365846,
-      "time": "20261125161430",
-      "quote_date": "2026-11-25",
+      "price": 12.6,
+      "prev_close": 12.64,
+      "change_pct": -0.31645569620254443,
+      "time": "20261126161430",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 12.64,
-        "东方财富": 12.64
+        "腾讯": 12.6,
+        "东方财富": 12.6
       },
       "stale": false
     },
@@ -1475,16 +1475,16 @@
       "secid": "0.300604",
       "quote_symbol": "sz300604",
       "chain": "先进制程 / 设备 / 材料 / 封装",
-      "price": 165.59,
-      "prev_close": 183.74,
-      "change_pct": -9.87808860346141,
-      "time": "20261125161457",
-      "quote_date": "2026-11-25",
+      "price": 167.18,
+      "prev_close": 165.59,
+      "change_pct": 0.9602029108037868,
+      "time": "20261126161445",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 165.59,
-        "东方财富": 165.59
+        "腾讯": 167.18,
+        "东方财富": 167.18
       },
       "stale": false
     },
@@ -1497,16 +1497,16 @@
       "secid": "1.688676",
       "quote_symbol": "sh688676",
       "chain": "液冷 / 电源 / AI电力系统",
-      "price": 45.7,
-      "prev_close": 48.35,
-      "change_pct": -5.480868665977246,
-      "time": "20261125161459",
-      "quote_date": "2026-11-25",
+      "price": 45.23,
+      "prev_close": 45.7,
+      "change_pct": -1.0284463894967288,
+      "time": "20261126161450",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 45.7,
-        "东方财富": 45.7
+        "腾讯": 45.23,
+        "东方财富": 45.23
       },
       "stale": false
     },
@@ -1519,16 +1519,16 @@
       "secid": "0.300442",
       "quote_symbol": "sz300442",
       "chain": "AI服务器 / 算力基础设施",
-      "price": 43.9,
-      "prev_close": 46.52,
-      "change_pct": -5.631986242476361,
-      "time": "20261125161415",
-      "quote_date": "2026-11-25",
+      "price": 44.42,
+      "prev_close": 43.9,
+      "change_pct": 1.1845102505694927,
+      "time": "20261126161448",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 43.9,
-        "东方财富": 43.9
+        "腾讯": 44.42,
+        "东方财富": 44.42
       },
       "stale": false
     },
@@ -1541,16 +1541,16 @@
       "secid": "0.300693",
       "quote_symbol": "sz300693",
       "chain": "AI服务器 / 算力基础设施",
-      "price": 28.8,
-      "prev_close": 30.46,
-      "change_pct": -5.449770190413661,
-      "time": "20261125161451",
-      "quote_date": "2026-11-25",
+      "price": 28.52,
+      "prev_close": 28.8,
+      "change_pct": -0.9722222222222299,
+      "time": "20261126161430",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 28.8,
-        "东方财富": 28.8
+        "腾讯": 28.52,
+        "东方财富": 28.52
       },
       "stale": false
     },
@@ -1563,16 +1563,16 @@
       "secid": "0.301200",
       "quote_symbol": "sz301200",
       "chain": "AI服务器PCB / 覆铜板",
-      "price": 126.8,
-      "prev_close": 132.19,
-      "change_pct": -4.077464255995156,
-      "time": "20261125161454",
-      "quote_date": "2026-11-25",
+      "price": 125.28,
+      "prev_close": 126.8,
+      "change_pct": -1.1987381703470024,
+      "time": "20261126161445",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 126.8,
-        "东方财富": 126.8
+        "腾讯": 125.28,
+        "东方财富": 125.28
       },
       "stale": false
     },
@@ -1585,16 +1585,16 @@
       "secid": "1.688519",
       "quote_symbol": "sh688519",
       "chain": "AI服务器PCB / 覆铜板",
-      "price": 137.19,
-      "prev_close": 144.95,
-      "change_pct": -5.353570196619517,
-      "time": "20261125161459",
-      "quote_date": "2026-11-25",
+      "price": 141.35,
+      "prev_close": 137.19,
+      "change_pct": 3.032290983307817,
+      "time": "20261126161459",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 137.19,
-        "东方财富": 137.19
+        "腾讯": 141.35,
+        "东方财富": 141.35
       },
       "stale": false
     },
@@ -1607,16 +1607,16 @@
       "secid": "0.300870",
       "quote_symbol": "sz300870",
       "chain": "AI服务器 / 算力基础设施",
-      "price": 78.06,
-      "prev_close": 82.9,
-      "change_pct": -5.838359469240051,
-      "time": "20261125161418",
-      "quote_date": "2026-11-25",
+      "price": 77.68,
+      "prev_close": 78.06,
+      "change_pct": -0.4868050217781139,
+      "time": "20261126161433",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 78.06,
-        "东方财富": 78.06
+        "腾讯": 77.68,
+        "东方财富": 77.68
       },
       "stale": false
     },
@@ -1629,16 +1629,16 @@
       "secid": "1.688001",
       "quote_symbol": "sh688001",
       "chain": "先进制程 / 设备 / 材料 / 封装",
-      "price": 30.98,
-      "prev_close": 33.35,
-      "change_pct": -7.106446776611697,
-      "time": "20261125161457",
-      "quote_date": "2026-11-25",
+      "price": 30.75,
+      "prev_close": 30.98,
+      "change_pct": -0.742414460942542,
+      "time": "20261126161446",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 30.98,
-        "东方财富": 30.98
+        "腾讯": 30.75,
+        "东方财富": 30.75
       },
       "stale": false
     },
@@ -1651,16 +1651,16 @@
       "secid": "1.688126",
       "quote_symbol": "sh688126",
       "chain": "先进制程 / 设备 / 材料 / 封装",
-      "price": 19.94,
-      "prev_close": 20.46,
-      "change_pct": -2.5415444770283457,
-      "time": "20261125161453",
-      "quote_date": "2026-11-25",
+      "price": 18.82,
+      "prev_close": 19.94,
+      "change_pct": -5.616850551654973,
+      "time": "20261126161458",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 19.94,
-        "东方财富": 19.94
+        "腾讯": 18.82,
+        "东方财富": 18.82
       },
       "stale": false
     },
@@ -1673,16 +1673,16 @@
       "secid": "0.301018",
       "quote_symbol": "sz301018",
       "chain": "AI服务器 / 算力基础设施",
-      "price": 49.71,
-      "prev_close": 53.6,
-      "change_pct": -7.2574626865671625,
-      "time": "20261125161412",
-      "quote_date": "2026-11-25",
+      "price": 49.51,
+      "prev_close": 49.71,
+      "change_pct": -0.40233353450011,
+      "time": "20261126161457",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 49.71,
-        "东方财富": 49.71
+        "腾讯": 49.51,
+        "东方财富": 49.51
       },
       "stale": false
     },
@@ -1695,16 +1695,16 @@
       "secid": "0.301308",
       "quote_symbol": "sz301308",
       "chain": "HBM / 存储 / 内存接口",
-      "price": 178.4,
-      "prev_close": 190.69,
-      "change_pct": -6.4450154701347735,
-      "time": "20261125161436",
-      "quote_date": "2026-11-25",
+      "price": 178.88,
+      "prev_close": 178.4,
+      "change_pct": 0.2690582959641308,
+      "time": "20261126161445",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 178.4,
-        "东方财富": 178.4
+        "腾讯": 178.88,
+        "东方财富": 178.88
       },
       "stale": false
     },
@@ -1717,16 +1717,16 @@
       "secid": "0.300857",
       "quote_symbol": "sz300857",
       "chain": "HBM / 存储 / 内存接口",
-      "price": 117.01,
-      "prev_close": 122.37,
-      "change_pct": -4.3801585355887855,
-      "time": "20261125161445",
-      "quote_date": "2026-11-25",
+      "price": 118.62,
+      "prev_close": 117.01,
+      "change_pct": 1.3759507734381726,
+      "time": "20261126161445",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 117.01,
-        "东方财富": 117.01
+        "腾讯": 118.62,
+        "东方财富": 118.62
       },
       "stale": false
     },
@@ -1739,16 +1739,16 @@
       "secid": "1.688525",
       "quote_symbol": "sh688525",
       "chain": "HBM / 存储 / 内存接口",
-      "price": 115.28,
-      "prev_close": 122.51,
-      "change_pct": -5.90155905640356,
-      "time": "20261125161453",
-      "quote_date": "2026-11-25",
+      "price": 113.22,
+      "prev_close": 115.28,
+      "change_pct": -1.7869535045107576,
+      "time": "20261126161451",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 115.28,
-        "东方财富": 115.28
+        "腾讯": 113.22,
+        "东方财富": 113.22
       },
       "stale": false
     },
@@ -1762,10 +1762,10 @@
       "quote_symbol": "sz300563",
       "chain": "高速铜缆 / 连接器",
       "price": 16.4,
-      "prev_close": 17.3,
-      "change_pct": -5.202312138728338,
-      "time": "20261125161448",
-      "quote_date": "2026-11-25",
+      "prev_close": 16.4,
+      "change_pct": 0.0,
+      "time": "20261126161445",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
@@ -1782,16 +1782,16 @@
       "quote_symbol": "sh000300",
       "secid": "1.000300",
       "market": "指数",
-      "price": 3898.24,
-      "prev_close": 3963.82,
-      "change_pct": -1.654464632601893,
-      "time": "20261125161409",
-      "quote_date": "2026-11-25",
+      "price": 3900.55,
+      "prev_close": 3898.24,
+      "change_pct": 0.05925751108193378,
+      "time": "20261126161409",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 3898.24,
-        "东方财富": 3898.24
+        "腾讯": 3900.55,
+        "东方财富": 3900.55
       },
       "stale": false
     },
@@ -1801,16 +1801,16 @@
       "quote_symbol": "sh000688",
       "secid": "1.000688",
       "market": "指数",
-      "price": 1186.14,
-      "prev_close": 1250.09,
-      "change_pct": -5.115631674519417,
-      "time": "20261125161409",
-      "quote_date": "2026-11-25",
+      "price": 1169.99,
+      "prev_close": 1186.14,
+      "change_pct": -1.3615593437536933,
+      "time": "20261126161409",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 1186.14,
-        "东方财富": 1186.14
+        "腾讯": 1169.99,
+        "东方财富": 1169.99
       },
       "stale": false
     },
@@ -1820,16 +1820,16 @@
       "quote_symbol": "sz399006",
       "secid": "0.399006",
       "market": "指数",
-      "price": 2183.58,
-      "prev_close": 2278.99,
-      "change_pct": -4.1865036704856085,
-      "time": "20261125161403",
-      "quote_date": "2026-11-25",
+      "price": 2189.82,
+      "prev_close": 2183.58,
+      "change_pct": 0.28576924133763004,
+      "time": "20261126161430",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情｜东方财富对账通过",
       "verification": "双源一致",
       "source_prices": {
-        "腾讯": 2183.58,
-        "东方财富": 2183.58
+        "腾讯": 2189.82,
+        "东方财富": 2189.82
       },
       "stale": false
     },
@@ -1838,11 +1838,11 @@
       "company": "恒生科技指数",
       "quote_symbol": "hkHSTECH",
       "market": "指数",
-      "price": 3378.26,
-      "prev_close": 3466.87,
-      "change_pct": -2.555907778486055,
-      "time": "2026/11/25 16:08:28",
-      "quote_date": "2026-11-25",
+      "price": 3417.38,
+      "prev_close": 3378.26,
+      "change_pct": 1.157992576059863,
+      "time": "2026/11/26 16:08:28",
+      "quote_date": "2026-11-26",
       "source": "腾讯行情",
       "verification": "腾讯有效；备用源本轮不可用",
       "stale": false
